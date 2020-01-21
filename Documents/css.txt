@@ -1,0 +1,2948 @@
+<body id="body_main_div" class="mis_dyn_frms-php body_rtl" dir="rtl" data-lang="fa" data-sid="31">
+					<div id="body_sub_div" dir="rtl">
+					
+
+
+
+
+<header id="header" data-show="false" data-status="scroll">
+	<div class="container">
+			<div class="menu">
+				<nav>
+					<div class="items nothover"><a class="title triangle">دانشگاه خوارزمی<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_4">
+<div class="cell">
+<div class="mnu_title">ریاست دانشگاه</div>
+<a href="http://chancellor.khu.ac.ir" target="_blank">ریاست</a> <a href="http://pubrelation.khu.ac.ir" target="_blank"> مدیریت روابط عمومی </a> <a href="http://isco.khu.ac.ir" target="_blank"> مدیریت همکاری های علمی بین المللی </a> <a href="http://security.khu.ac.ir" target="_blank"> مدیریت حراست </a> <a href="./page.php?slct_pg_id=5355&amp;sid=67&amp;slc_lang=fa" target="_blank"> مدیریت امور حقوقی </a> <a href=""> هسته گزینش </a> <a href="http://mec.khu.ac.ir" target="_blank"> مرکز نظارت و ارزیابی عملکرد </a> <a href="https://chancellor.khu.ac.ir/page.php?slct_pg_id=24481&amp;sid=67&amp;slc_lang=fa" target="_blank"> دفتر جذب اعضای هیات علمی </a></div>
+
+<div class="cell">
+<div class="mnu_title">معاونت ها</div>
+<a href="http://adminfinance.khu.ac.ir" target="_blank">اداری مالی و توسعه منابع</a> <a href="http://education.khu.ac.ir" target="_blank"> آموزشی و تحصیلات تکمیلی</a> <a href="http://research.khu.ac.ir" target="_blank"> پژوهش و فناوری</a> <a href="http://stdaffairs.khu.ac.ir" target="_blank"> دانشجویی</a> <a href="http://sociocul.khu.ac.ir" target="_blank"> فرهنگی و اجتماعی</a>
+
+<div class="mnu_title">درباره دانشگاه</div>
+<a href="http://khu.ac.ir/content/12777/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DA%86%D9%87-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87" target="_blank"> تاریخچه دانشگاه</a> <a href="https://chancellor.khu.ac.ir/content/54798/%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87" target="_blank">افتخارات دانشگاه</a> <a href=""> نمودار سازمانی</a></div>
+
+<div class="cell"><a href="https://100years.khu.ac.ir/" target="_blank"> یکصدسالگی</a><a href="https://mehe.khu.ac.ir/" target="_blank"> هیأت نظارت آموزش عالی استان البرز</a> <a href="https://nnc.khu.ac.ir/" target="_blank"> شبکه ملی ارتباط جامعه و دانشگاه</a> <a href="http://khunahad.ir/" target="_blank"> نهاد مقام معظم رهبری</a> <a href="http://shahed.khu.ac.ir" target="_blank"> ستاد شاهد و ایثارگر</a> <a href="https://charity.khu.ac.ir/" target="_blank"> بنیاد خیرین حامی دانشگاه </a> <a href="http://pubrelation.khu.ac.ir/page/22316/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87" target="_blank"> ارتباط با دانشگاه</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/university.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="items nothover"><a class="title triangle">دانشکده ها<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_3">
+<div class="cell"><a href="http://lh.khu.ac.ir" target="_blank">ادبیات و علوم انسانی</a> <a href="http://eco.khu.ac.ir" target="_blank"> اقتصاد</a> <a href="http://pardis.khu.ac.ir" target="_blank">پردیس بین الملل تهران</a> <a href="http://pess.khu.ac.ir" target="_blank"> تربیت بدنی و علوم ورزشی</a> <a href="http://flps.khu.ac.ir" target="_blank"> حقوق و علوم سیاسی</a> <a href="http://pe.khu.ac.ir" target="_blank"> روانشناسی و علوم تربیتی</a> <a href="http://chem.khu.ac.ir" target="_blank"> شیمی</a> <a href="http://gs.khu.ac.ir" target="_blank"> علوم جغرافیایی</a></div>
+
+<div class="cell"><a href="http://msc.khu.ac.ir" target="_blank">علوم ریاضی و کامپیوتر</a> <a href="http://es.khu.ac.ir" target="_blank"> علوم زمین</a> <a href="http://bs.khu.ac.ir" target="_blank"> علوم زیستی</a> <a href="http://fs.khu.ac.ir" target="_blank"> علوم مالی</a> <a href="http://eng.khu.ac.ir" target="_blank"> فنی و مهندسی</a> <a href="http://phys.khu.ac.ir" target="_blank"> فیزیک</a> <a href="http://mgnt.khu.ac.ir" target="_blank"> مدیریت</a> <a href="http://artarch.khu.ac.ir" target="_blank"> هنر و معماری</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/faculties.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="items nothover"><a class="title triangle">آموزش<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_3">
+<div class="cell"><a href="http://education.khu.ac.ir" target="_blank">معاونت آموزشی و تحصیلات تکمیلی</a>  <a href="http://pgeducation.khu.ac.ir" target="_blank"> مدیریت تحصیلات تکمیلی</a> <a href="http://ugeducation.khu.ac.ir" target="_blank"> مدیریت خدمات آموزشی</a> <a href="https://epd.khu.ac.ir/" target="_blank"> مدیریت برنامه ریزی و توسعه آموزشی</a>  <a href="https://pgeducation.khu.ac.ir/page/22635/%D9%85%D8%B1%DA%A9%D8%B2-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%D9%87%D8%A7%DB%8C-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C" target="_blank"> مرکز آموزش های مجازی</a> <a href="http://elc.khu.ac.ir" target="_blank"> مرکز آموزش های آزاد</a></div>
+
+<div class="cell"><a href="http://talentoffice.khu.ac.ir" target="_blank"> اداره حمایت از استعدادهای درخشان</a>  <a href="https://education.khu.ac.ir/page/7120/%D8%AF%D9%81%D8%AA%D8%B1-%D8%A7%D9%85%D9%88%D8%B1-%D8%AA%D8%B1%D9%81%DB%8C%D8%B9-%D9%88-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A7%D8%B9%D8%B6%D8%A7%DB%8C-%D9%87%DB%8C%DB%8C%D8%AA-%D8%B9%D9%84%D9%85%DB%8C" target="_blank"> اداره امور ترفیع و ارتقاء هیئت علمی</a><a href="http://golestan.khu.ac.ir/home/Default.htm" target="_blank"> سامانه آموزشی گلستان</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/education.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="items nothover"><a class="title triangle">پژوهش<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_4">
+<div class="cell"><a href="http://research.khu.ac.ir" target="_blank">معاونت پژوهشی</a> <a href="http://ict.khu.ac.ir" target="_blank"> مرکز فناوری اطلاعات و ارتباطات</a> <a href="http://ent.khu.ac.ir" target="_blank"> مرکز کارآفرینی و ارتباط با جامعه</a> <a href="http://inc.khu.ac.ir" target="_blank">مرکز رشد و توسعه واحدهای فناور</a> <a href="https://fanbazar-alborz.khu.ac.ir/" target="_blank">هفته پژوهش و فناوری استان البرز</a> <a href="https://lib.khu.ac.ir/" target="_blank"> کتابخانه مرکزی</a> <a href="https://lib.khu.ac.ir/page.php?slct_pg_id=5664&amp;sid=15&amp;slc_lang=fa" target="_blank"> پایگاه های اطلاعاتی</a> <a href="https://khu.ac.ir/content/7287/%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D9%BE%DA%98%D9%88%D9%87%D8%B4%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF%D9%87-%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%87%D8%A7" target="_blank"> اولویتهای تحقیقاتی</a> <a href="http://rds.khu.ac.ir/" target="_blank"> سامانه اطلاعات پژوهشی</a> <a href="http://lab-portal.khu.ac.ir/" target="_blank"> سامانه آزمایشگاه مرکزی</a></div>
+
+<div class="cell">
+<div class="mnu_title">پژوهشکده ها و قطب های علمی</div>
+<a href="http://prc.khu.ac.ir" target="_blank">پژوهشکده پلاسما</a> <a href="http://msri.khu.ac.ir" target="_blank"> پژوهشکده علوم حرکتی</a> <a href="http://asrc.khu.ac.ir" target="_blank"> پژوهشکده علوم کاربردی</a> <a href="http://pri.khu.ac.ir/" target="_blank"> پژوهشکده فلسفه و حقوق تطبیقی</a> <a href="http://esteres.khu.ac.ir/" target="_blank"> قطب علمی روانشناسی استرس</a> <a href="http://cesaeh.khu.ac.ir" target="_blank"> قطب علمی تحلیل فضایی مخاطرات محیطی</a></div>
+
+<div class="cell">
+<div class="mnu_title">انتشارات</div>
+<a href="http://pub.khu.ac.ir" target="_blank">اداره انتشارات</a> <a href="http://rds.khu.ac.ir/rdsm_jrn_list.php" target="_blank"> نشریات</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/research.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="items nothover"><a class="title triangle" href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#">هیأت علمی<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_2">
+<div class="cell"><a href="./cv.php?slc_lang=fa&amp;sid=1" target="_blank">اعضای هیأت علمی</a> <a href="http://rds.khu.ac.ir/" target="_blank"> سامانه اطلاعات پژوهشی</a> <a href="http://tsociety.khu.ac.ir" target="_blank"> انجمن اساتید دانشگاه</a> <a href="http://welfare.khu.ac.ir" target="_blank">اداره رفاه کارکنان</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/faculty.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="items nothover"><a class="title triangle" href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#">فرهنگی-دانشجویی<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_3">
+<div class="cell"><a href="http://golestan.khu.ac.ir/">سامانه آموزشی گلستان</a>
+
+<div class="mnu_title">اتوماسیون ها</div>
+<a href="http://meal.khu.ac.ir/" target="_blank"> تغذیه کرج</a> <a href="http://efood.khu.ac.ir/" target="_blank"> تغذیه تهران </a> <a href="http://golestan.khu.ac.ir/" target="_blank"> خوابگاهها</a></div>
+
+<div class="cell">
+<div class="mnu_title">معاونت ها</div>
+<a href="http://stdaffairs.khu.ac.ir" target="_blank">دانشجویی</a> <a href="http://sociocul.khu.ac.ir" target="_blank"> فرهنگی و اجتماعی</a>
+
+<div class="mnu_title">انجمن ها</div>
+<a href="http://ssa.khu.ac.ir" target="_blank">انجمن های علمی دانشجویی</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/students.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="items nothover"><a class="title triangle" href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#">کارکنان<span class="mob_icon_actian"></span></a>
+
+<div class="content" style="transition: none 0s ease 0s;">
+<div class="tb columns_3">
+<div class="cell"><a href="http://adminfinance.khu.ac.ir" target="_blank">معاونت اداری مالی و توسعه منابع</a> <a href="https://moffice.khu.ac.ir/" target="_blank"> مدیریت امور اداری</a> <a href="https://finance.khu.ac.ir/" target="_blank"> مدیریت امور مالی</a>  <a href="https://budget.khu.ac.ir/" target="_blank"> مدیریت بودجه و تشکیلات</a> <a href="https://tam.khu.ac.ir/" target="_blank"> مدیریت امور فنی</a> <a href="https://pam.khu.ac.ir/" target="_blank"> مدیریت امور عمومی</a> <a href="http://welfare.khu.ac.ir" target="_blank">اداره رفاه کارکنان</a></div>
+
+<div class="cell"><a href="http://learning.khu.ac.ir/" target="_blank"> سامانه آموزش کارکنان</a> <a href="http://ssociety.khu.ac.ir" target="_blank"> شورای صنفی کارکنان</a> <a href="http://ecp.khu.ac.ir" target="_blank"> شرکت تعاونی اعتبار کارکنان</a></div>
+
+<div class="cell">
+<div class="container"><img alt="" src="./files/site1/modern01/menu/staff.jpg"></div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="items services_link nothover"> <a class="title"> خدمات الکترونیک <span class="mob_icon_actian"></span></a> </div>
+				</nav>
+			</div>
+		<div class="tools">
+			<div class="arrow" data-show="false">
+				<span></span>
+			</div>
+			<div class="login"></div>
+			<div class="services"></div>
+			<div class="search_icon"></div>
+			<div class="lang">
+				<div class="items">
+					<a class="item ir"></a>
+<a href="./en" class="item en" title="English"></a>
+<a href="./ar" class="item ar" title="عربی"></a>
+
+<!--<a href="#" class="item fa masterTooltip" title="France"></a>-->
+
+<!--<a href="#" class="item de masterTooltip" title="Germany"></a>-->
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div id="online_services_box" data-show="close">
+	<div class="bg"></div>
+	<span class="close"></span>
+	<div class="container">
+		<div class="top">
+	<a href="http://rds.khu.ac.ir/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>اطلاعات پژوهشی</span>
+		</div>
+	</a>
+	<a href="http://golestan.khu.ac.ir/home/Default.htm" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>سامانه گلستان</span>
+		</div>
+	</a>
+	<a href="https://mail.khu.ac.ir/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fmail.khu.ac.ir%2fowa%2f" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>پست الکترونیک</span>
+		</div>
+	</a>
+	<a href="http://pay.khu.ac.ir:8080/Account/Login.aspx" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>فیش حقوقی</span>
+		</div>
+	</a>
+<a href="http://erp.khu.ac.ir/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>اتوماسیون اداری چارگون</span>
+		</div>
+	</a>
+</div>
+<div class="center">
+	<a href="http://webkart.khu.ac.ir:8125/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>حضور و غیاب کارکنان</span>
+		</div>
+	</a>
+	<a href="https://www.office.com/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>آفیس 365</span>
+		</div>
+	</a>
+	<a href="http://bi.khu.ac.ir/index.htm" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>هوش سازمانی</span>
+		</div>
+	</a>
+	<a href="http://learning.khu.ac.ir/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>آموزش کارکنان</span>
+		</div>
+	</a>
+	<a href="http://erp.khu.ac.ir:8090/applications/Tracking/websitequery.aspx?SoftwareGuid=7C48F1EE-18C0-4406-84B0-3AD426CE5AEE&amp;tableKey=1" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>پیگرد نامه</span>
+		</div>
+	</a>
+	<a href="http://webkart.khu.ac.ir" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>سامانه فرم های اداری</span>
+		</div>
+	</a>
+</div>
+<div class="bottom">
+<a href="http://office.khu.ac.ir/istgwebapp/firstpage/index.htm" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>اتوماسیون اداری سابق</span>
+		</div>
+	</a>
+	<a href="http://libportal.khu.ac.ir/c/portal/layout" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>کتابخانه دیجیتال</span>
+		</div>
+	</a>
+	<a href="http://efood.khu.ac.ir/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>تغذیه تهران</span>
+		</div>
+	</a>
+	<a href="http://meal.khu.ac.ir/" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>تغذیه کرج</span>
+		</div>
+	</a>
+	<a href="./index.php?slc_lang=fa&amp;sid=56" target="_blank" class="items">
+		<div class="icon"></div>
+		<div class="title">
+			<span>گنج دانش</span>
+		</div>
+	</a>
+
+</div>
+	</div>
+</div>
+<div id="search_box">
+	<div class="bg"></div>
+	<span class="close"></span>
+	<div class="container">
+		<div class="tabs">
+			<div class="tab" data-index="1" data-show="true">پژوهش</div>
+			<div class="tab" data-index="2" data-show="false">مطالب پایگاه</div>
+			<div class="tab" data-index="3" data-show="false">افراد</div>
+			<div class="tab" data-index="4" data-show="false">واحدهای سازمانی</div>
+		</div>
+		<div class="search_forms">
+			<form class="" action="" method="post" data-index="1" data-show="true">
+				<div class="select_style">
+					<div class="opts">
+						<div class="opt selected">انتخاب کنید:</div>
+						<div class="opt" data-val="terms" data-action="http://rds.khu.ac.ir/rdsm_jrn_list.php" data-href="http://rds.khu.ac.ir/rdsm_jrn_list.php" data-title="فهرست نشریات دانشگاه">نشریات علمی دانشگاه</div>
+						<div class="opt" data-val="terms" data-action="http://rds.khu.ac.ir/search_doc.php?query=1&amp;slc_lang=fa&amp;sid=1" data-href="http://rds.khu.ac.ir/search_doc.php?slc_lang=fa&amp;sid=1" data-title="جستجو در مقالات علمی دانشگاه">مقالات منتشر شده </div>
+						<div class="opt" data-val="terms" data-action="http://rds.khu.ac.ir/rdsm_confer_list.php?slc_lang=fa&amp;sid=1" data-href="http://rds.khu.ac.ir/rdsm_confer_list.php?slc_lang=fa&amp;sid=1" data-title="فهرست همایش های علمی دانشگاه">همایشهای علمی دانشگاه</div>
+						<div class="opt" data-val="terms" data-action="http://rds.khu.ac.ir/rds_search_project.php?mod=rds_search&amp;sid=1&amp;slc_lang=fa" data-href="http://rds.khu.ac.ir/rdsm_project_list.php" data-title="فهرست طرح های پژوهشی دانشگاه">طرح های پژوهشی</div>
+						<div class="opt" data-val="terms" data-action="http://rds.khu.ac.ir/rds_search_thesis.php?mod=rds_search&amp;sid=1&amp;slc_lang=fa" data-href="http://rds.khu.ac.ir/rdsm_thesis_list.php" data-title="فهرست پایان نامه های دانشگاه">پایان نامه ها</div>
+						<div class="opt" data-val="terms" data-action="http://rds.khu.ac.ir/book_treasure_search.php?sid=1&amp;slc_lang=fa" data-href="http://rds.khu.ac.ir/book_treasure.php?mod=viewsec&amp;sec_id=10&amp;slc_lang=fa&amp;sid=1" data-title="فهرست کتب دانشگاه">کتاب ها</div>
+						<input type="hidden" name="">
+					</div>
+					<a class="link_all" href=""></a>
+				</div>
+				<div>
+					<input class="search_inp" type="text" placeholder="جستجو" name="terms">
+					<input type="submit" name="" value="">
+				</div>
+			</form>
+			<form class="" action="" method="post" data-index="2" data-show="false">
+				<div class="select_style">
+					<div class="opts">
+						<div class="opt selected">انتخاب کنید:</div>
+						<div class="opt" data-val="terms" data-action="./search.php?home_search=1&amp;sid=1&amp;slc_lang=fa" data-href="./sitemap.php?slc_lang=fa&amp;sid=1" data-title="نقشه پایگاه وب دانشگاه">مطالب پایگاه</div>
+						<div class="opt" data-val="terms" data-action="./search.php?home_search=1&amp;sid=2&amp;slc_lang=fa&amp;s_sections=2&amp;s_sbj=377" data-href="./subject_arch.php?subject_id=377&amp;sid=2&amp;slc_lang=fa" data-title="فهرست اخبار دانشگاه">اخبار دانشگاه</div>
+						<div class="opt" data-val="terms" data-action="./search.php?home_search=1&amp;sid=31&amp;slc_lang=fa&amp;s_sections=31&amp;s_sbj=428" data-href="./subject_arch.php?subject_id=428&amp;sid=31&amp;slc_lang=fa" data-title="فهرست اخبار فناوری دانشگاه">اخبار فناوری دانشگاه</div>
+						<div class="opt" data-val="terms" data-action="./search.php?home_search=1&amp;sid=2&amp;slc_lang=fa&amp;s_sections=2&amp;s_sbj=375" data-href="./subject_arch.php?subject_id=375&amp;sid=2&amp;slc_lang=fa" data-title="فهرست اطلاعیه های دانشگاه">اطلاعیه های دانشگاه</div>
+						<div class="opt" data-val="terms" data-action="http://www.ghatreh.com/subcat/getNews.php?type=rss&amp;n-num=30&amp;keyID=brandnew.khu.ac.ir-SID-1" data-href="./ghatreh_archive.php?sid=1&amp;slc_lang=fa" data-title="دانشگاه خوارزمی در رسانه ها">دانشگاه خوارزمی در رسانه ها</div>
+						<input type="hidden" name="">
+					</div>
+					<a class="link_all" href=""></a>
+				</div>
+				<div>
+					<input class="search_inp" type="text" placeholder="جستجو" name="terms">
+					<input type="submit" name="" value="">
+				</div>
+			</form>
+			<form class="" action="" method="post" data-index="3" data-show="false" target="_blank">
+				<div class="select_style">
+					<div class="opts">
+						<div class="opt selected">انتخاب کنید:</div>
+						<div class="opt" data-val="terms" data-action="./cv.php?sid=1&amp;slc_lang=fa" data-href="./cv.php?sid=1&amp;slc_lang=fa" data-title="فهرست اعضای هیات علمی دانشگاه">اعضای هیات علمی</div>
+						<div class="opt" data-val="terms" data-action="./persons.php" data-href="./persons.php" data-title="فهرست مدیران و کارشناسان">مدیران و کارشناسان</div>
+						<input type="hidden" name="">
+					</div>
+					<a class="link_all" href=""></a>
+				</div>
+				<div>
+					<input class="search_inp" type="text" placeholder="جستجو" name="terms">
+					<input type="submit" name="" value="">
+				</div>
+			</form>
+			<form class="" action="" method="post" data-index="4" data-show="false">
+				<div class="select_style">
+					<div class="opts">
+						<div class="opt selected">انتخاب کنید:</div>
+						<div class="opt" data-val="terms" data-action="" data-href="" data-title="">انتخاب کنید:</div>
+						<div class="opt" data-val="terms" data-action="./search.php?search_sections=1" data-href="./sitemap.php?slc_lang=fa&amp;sid=1" data-title="نقشه پایگاه">عنوان و مشخصات</div>
+						<div class="opt" data-val="terms" data-action="./services.php?allsec=1" data-href="./services.php?allsec=1" data-title="بانک خدمات واحدها">خدمات واحدها</div>
+						<input type="hidden" name="">
+					</div>
+					<a class="link_all" href=""></a>
+				</div>
+				<div>
+					<input class="search_inp" type="text" placeholder="جستجو" name="terms">
+					<input type="submit" name="" value="">
+				</div>
+			</form>
+		</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#search_box .container .tabs .tab').click(function() {
+		$('#search_box .container .tabs .tab').attr('data-show',"false");
+		$(this).attr('data-show',"true");
+		var index =$(this).attr('data-index');
+		$("#search_box .container form").attr('data-show',"false");
+		$("#search_box .container form[data-index="+ index +"]").attr('data-show',"true");
+	});
+	$('.select_style .opts').click(function() {
+		if($(this).attr('data-show')=="true"){
+			$(this).attr('data-show',"false");
+		}else{
+			$(this).attr('data-show',"true");
+		}
+	});
+
+	$('.select_style .opts .opt').click(function() {
+		var action = $(this).attr('data-action');
+		var href = $(this).attr('data-href');
+		var title = $(this).attr('data-title');
+		var selectVal = $(this).attr('data-val');
+		var text = $(this).text();
+		$(this).parent().find(".selected").text(text);
+		$(this).parent().parent().find(".link_all").attr("href",href);
+		$(this).parent().parent().find(".link_all").text(title);
+		$(this).parent().parent().parent().attr("action",action);
+		$(this).parent().find('input[type=hidden]').val(selectVal);
+	});
+});
+</script>
+
+<div id="login">
+	<div class="bg"></div>
+	<span class="close"></span>
+	<div id="login_area">
+		<div id="login_box">
+			<div class="title"> ورود به پنل کاربری</div>
+			<form name="form_login" action="login.php?sid=31&amp;slc_lang=fa&amp;logincase=1" method="post" style="margin:0; padding:0">
+				<input name="login" type="hidden" value="1">
+				<input name="username" type="text" value="نام کاربری" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" id="user_style">
+				<input name="password" type="password" value="رمز عبور" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" id="pass_style">
+				<div class="inline">
+					<label>
+						<input id="login_chkbox" type="checkbox" name="autologin">
+						<span id="login_chk_txt">ورود خودکار</span>
+					</label>
+					<input name="submit" type="submit" class="submit_btn submit_login_top" value="ورود">
+				</div>
+				<div class="inline">
+					<a href="./form_register.php?sid=31&amp;slc_lang=fa">ثبت نام</a>
+					<a href="./pass_req.php?sid=31&amp;slc_lang=fa">بازیابی رمز عبور</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+<header id="sub_hd_mnu" data-status="scroll">
+		<div class="cell">
+			<a href="/index.php?slc_lang=fa&amp;sid=1" id="logo">
+				<img src="./templates/tmpl_modern01/images/ic_khu_logo_w_fa.png">
+				<div class="centenary_logo"></div>
+				<div class="centenary_logo_type"></div>
+			</a>
+		</div>
+		<div class="menu_mob_btn" data-show="false"><span></span></div>
+		<div class="cell box_menu">
+			<nav id="nav_top">
+
+
+	<div id="menu_back" style="display: none;">
+	<div id="awt_top_menu"><div class="slicknav_menu"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" aria-haspopup="true" tabindex="0" class="slicknav_btn slicknav_collapsed" style=""><span class="slicknav_menutxt"></span><span class="slicknav_icon slicknav_no-text"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" style="display: none;" aria-hidden="true" role="menu">
+
+<li class="lvl_1 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style="">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">مرکز فناوری اطلاعات و ارتباطات</a>
+
+ <span class="slicknav_arrow">◆</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
+  <li class="lvl_2"><a href="page/7362/معرفی" role="menuitem" tabindex="-1">معرفی مرکز</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/23105/چشم-انداز" role="menuitem" tabindex="-1"> چشم انداز </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/23106/بیانیه-ماموریت" role="menuitem" tabindex="-1">بیانیه ماموریت </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/23118/ارزش-ها" role="menuitem" tabindex="-1">ارزش ها </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/7189/امکانات-و-فعالیت-های-مرکز" role="menuitem" tabindex="-1">امکانات و فعالیت های مرکز</a>
+  </li>
+
+  <li class="lvl_2 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style=""><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">رئیس مرکز</a>
+
+   <span class="slicknav_arrow">◆</span></a><ul class"red"="" role="menu" aria-hidden="true" class="slicknav_hidden" style="display: none;">
+    <li class="lvl_3"><a href="page/8300/معرفی-مدیر" role="menuitem" tabindex="-1">معرفی رئیس</a></li>
+
+    <li class="lvl_3"><a href="page/7134/مدیران-سابق" role="menuitem" tabindex="-1">روسای سابق</a></li>
+   </ul>
+  </li>
+
+  <li class="lvl_2"><a href="http://ict.khu.ac.ir/persons.php?slc_lang=fa&amp;sid=31" target="_blank" role="menuitem" tabindex="-1">کارشناسان مرکز</a>
+  </li>
+
+  <li class="lvl_2 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style=""><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">طرح ها و عملکرد</a>
+
+   <span class="slicknav_arrow">◆</span></a><ul class"red"="" role="menu" aria-hidden="true" class="slicknav_hidden" style="display: none;">
+    <li class="lvl_3"><a href="page/8035/طرح-های-اجرا-شده" role="menuitem" tabindex="-1">طرح های اجرا شده</a></li>
+
+    <li class="lvl_3"><a href="page/8047/طرح-های-در-حال-اجرا" role="menuitem" tabindex="-1">طرح های در حال اجرا</a></li>
+
+    <li class="lvl_3"><a href="page/6957/طرح-های-در-دست-بررسی" role="menuitem" tabindex="-1">طرح های در دست بررسی</a></li>
+   </ul>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style="">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">من میخواهم...</a>
+
+ <span class="slicknav_arrow">◆</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13" target="_blank" role="menuitem" tabindex="-1">درخواست پست الکترونیک دهم</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/dform/99/96/" target="_blank" role="menuitem" tabindex="-1">رمز عبور پست الکترونیک خود را بازیابی کنم </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/page/23125/%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7" target="_blank" role="menuitem" tabindex="-1">از وضعیت سامانه های دانشگاه مطلع شوم </a>
+  </li>
+
+  <li class="lvl_2"><a href="ftp:/share.khu.ac.ir/" target="_blank" role="menuitem" tabindex="-1">به بانک نرم افزاری دانشگاه دسترسی داشته باشم </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=85&amp;proced_id=88" target="_blank" role="menuitem" tabindex="-1">درخواست اینترنت پرسرعت خانگی پارس آنلاین دهم </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=15&amp;proced_id=11" target="_blank" role="menuitem" tabindex="-1"> درخواست اکانت Office 365 دهم </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/dform/109/105/" target="_blank" role="menuitem" tabindex="-1"> درخواست کار دانشجویی و کارآموزی در مرکز فاوا دهم</a>
+  </li>
+
+  <li class="lvl_2"><a href="ftp:/share.khu.ac.ir/Antivirus%20Tools/Symantec%20Endpoint%20Protection/" target="_blank" role="menuitem" tabindex="-1">از آنتی ویروس دانشگاه استفاده کنم.</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/dform/113/109/" target="_blank" role="menuitem" tabindex="-1"> پست الکترونیک دانشگاهی خود را پس از فارغ التحصیلی تمدید کنم. </a>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style="">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">ورود به ...</a>
+
+ <span class="slicknav_arrow">◆</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
+  <li class="lvl_2"><a href="http://erp.khu.ac.ir/UserLogin.aspx" target="_blank" role="menuitem" tabindex="-1">اتوماسیون جامع اداری دیدگاه (چارگون)</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://golestan.khu.ac.ir/home/Default.htm" target="_blank" role="menuitem" tabindex="-1">اتوماسیون آموزشی گلستان</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://meal.khu.ac.ir/identity/login?signin=e4bd3588b70e0cf31c91411e144dcf85" target="_blank" role="menuitem" tabindex="-1">اتوماسیون تغذیه کرج </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://mail.khu.ac.ir/" role="menuitem" tabindex="-1">پست الکترونیک دانشگاه </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://rds.khu.ac.ir/" target="_blank" role="menuitem" tabindex="-1">سامانه اطلاعات پژوهشی</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://efood.khu.ac.ir/" target="_blank" role="menuitem" tabindex="-1">اتوماسیون تغذیه تهران </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://pay.khu.ac.ir:8080/Account/Login.aspx" target="_blank" role="menuitem" tabindex="-1">فیش حقوقی </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://webkart.khu.ac.ir:82/Account/Login?AppLoginUrl=http://webkart.khu.ac.ir/user/applogin&amp;returnUrl=%2f" target="_blank" role="menuitem" tabindex="-1">سامانه فرم های اداری</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://learning.khu.ac.ir/" target="_blank" role="menuitem" tabindex="-1">سامانه آموزش کارکنان</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://libportal.khu.ac.ir/web/guest/main;jsessionid=A2230D180E078E95C024C14A9CE6AF22" target="_blank" role="menuitem" tabindex="-1">کتابخانه دیجیتال</a>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style="">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">راهنما</a>
+
+ <span class="slicknav_arrow">◆</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
+  <li class="lvl_2"><a href="page/24351/راهنمای-عمومی" role="menuitem" tabindex="-1">راهنمای عمومی </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24361/راهنمای-دانشجویان" role="menuitem" tabindex="-1">راهنمای دانشجویان</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24353/راهنمای-اساتید" role="menuitem" tabindex="-1">راهنمای اساتید</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24354/راهنمای-کارمندان" role="menuitem" tabindex="-1">راهنمای کارمندان </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24355/راهنمای-دانش-آموختگان" role="menuitem" tabindex="-1">راهنمای دانش آموختگان</a>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1 slicknav_collapsed slicknav_parent"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item" style="">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">ارتباط با ما</a>
+
+ <span class="slicknav_arrow">◆</span></a><ul role="menu" class="slicknav_hidden" style="display: none;" aria-hidden="true">
+  <li class="lvl_2"><a href="page/24417/واحد-کرج" role="menuitem" tabindex="-1">واحد کرج</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24418/واحد-تهران" role="menuitem" tabindex="-1">واحد تهران</a>
+  </li>
+</ul>
+</li>
+
+</ul></div><ul id="awt_navmenu">
+
+<li class="lvl_1">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">مرکز فناوری اطلاعات و ارتباطات</a>
+
+ <ul>
+  <li class="lvl_2"><a href="page/7362/معرفی">معرفی مرکز</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/23105/چشم-انداز"> چشم انداز </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/23106/بیانیه-ماموریت">بیانیه ماموریت </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/23118/ارزش-ها">ارزش ها </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/7189/امکانات-و-فعالیت-های-مرکز">امکانات و فعالیت های مرکز</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">رئیس مرکز</a>
+
+   <ul class"red"="">
+    <li class="lvl_3"><a href="page/8300/معرفی-مدیر">معرفی رئیس</a></li>
+
+    <li class="lvl_3"><a href="page/7134/مدیران-سابق">روسای سابق</a></li>
+   </ul>
+  </li>
+
+  <li class="lvl_2"><a href="http://ict.khu.ac.ir/persons.php?slc_lang=fa&amp;sid=31" target="_blank">کارشناسان مرکز</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">طرح ها و عملکرد</a>
+
+   <ul class"red"="">
+    <li class="lvl_3"><a href="page/8035/طرح-های-اجرا-شده">طرح های اجرا شده</a></li>
+
+    <li class="lvl_3"><a href="page/8047/طرح-های-در-حال-اجرا">طرح های در حال اجرا</a></li>
+
+    <li class="lvl_3"><a href="page/6957/طرح-های-در-دست-بررسی">طرح های در دست بررسی</a></li>
+   </ul>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">من میخواهم...</a>
+
+ <ul>
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13" target="_blank">درخواست پست الکترونیک دهم</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/dform/99/96/" target="_blank">رمز عبور پست الکترونیک خود را بازیابی کنم </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/page/23125/%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7" target="_blank">از وضعیت سامانه های دانشگاه مطلع شوم </a>
+  </li>
+
+  <li class="lvl_2"><a href="ftp:/share.khu.ac.ir/" target="_blank">به بانک نرم افزاری دانشگاه دسترسی داشته باشم </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=85&amp;proced_id=88" target="_blank">درخواست اینترنت پرسرعت خانگی پارس آنلاین دهم </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=15&amp;proced_id=11" target="_blank"> درخواست اکانت Office 365 دهم </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/dform/109/105/" target="_blank"> درخواست کار دانشجویی و کارآموزی در مرکز فاوا دهم</a>
+  </li>
+
+  <li class="lvl_2"><a href="ftp:/share.khu.ac.ir/Antivirus%20Tools/Symantec%20Endpoint%20Protection/" target="_blank">از آنتی ویروس دانشگاه استفاده کنم.</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://ict.khu.ac.ir/dform/113/109/" target="_blank"> پست الکترونیک دانشگاهی خود را پس از فارغ التحصیلی تمدید کنم. </a>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">ورود به ...</a>
+
+ <ul>
+  <li class="lvl_2"><a href="http://erp.khu.ac.ir/UserLogin.aspx" target="_blank">اتوماسیون جامع اداری دیدگاه (چارگون)</a>
+  </li>
+
+  <li class="lvl_2"><a href="https://golestan.khu.ac.ir/home/Default.htm" target="_blank">اتوماسیون آموزشی گلستان</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://meal.khu.ac.ir/identity/login?signin=e4bd3588b70e0cf31c91411e144dcf85" target="_blank">اتوماسیون تغذیه کرج </a>
+  </li>
+
+  <li class="lvl_2"><a href="https://mail.khu.ac.ir/">پست الکترونیک دانشگاه </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://rds.khu.ac.ir/" target="_blank">سامانه اطلاعات پژوهشی</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://efood.khu.ac.ir/" target="_blank">اتوماسیون تغذیه تهران </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://pay.khu.ac.ir:8080/Account/Login.aspx" target="_blank">فیش حقوقی </a>
+  </li>
+
+  <li class="lvl_2"><a href="http://webkart.khu.ac.ir:82/Account/Login?AppLoginUrl=http://webkart.khu.ac.ir/user/applogin&amp;returnUrl=%2f" target="_blank">سامانه فرم های اداری</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://learning.khu.ac.ir/" target="_blank">سامانه آموزش کارکنان</a>
+  </li>
+
+  <li class="lvl_2"><a href="http://libportal.khu.ac.ir/web/guest/main;jsessionid=A2230D180E078E95C024C14A9CE6AF22" target="_blank">کتابخانه دیجیتال</a>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">راهنما</a>
+
+ <ul>
+  <li class="lvl_2"><a href="page/24351/راهنمای-عمومی">راهنمای عمومی </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24361/راهنمای-دانشجویان">راهنمای دانشجویان</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24353/راهنمای-اساتید">راهنمای اساتید</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24354/راهنمای-کارمندان">راهنمای کارمندان </a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24355/راهنمای-دانش-آموختگان">راهنمای دانش آموختگان</a>
+  </li>
+</ul>
+</li>
+
+<li class="lvl_1">
+<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="noclick" onclick="return false;">ارتباط با ما</a>
+
+ <ul>
+  <li class="lvl_2"><a href="page/24417/واحد-کرج">واحد کرج</a>
+  </li>
+
+  <li class="lvl_2"><a href="page/24418/واحد-تهران">واحد تهران</a>
+  </li>
+</ul>
+</li>
+
+</ul></div>
+
+	  <div class="clr"></div>
+	</div>
+
+
+
+
+
+
+			<div class="items nothover"><a class="title triangle">مرکز فناوری اطلاعات و ارتباطات<span class="mob_icon_actian"></span></a><div class="content"><div class="tb columns_3"><div class="cell"><a class="mnu_title " href="page/7362/معرفی">معرفی مرکز</a><a class="mnu_title " href="page/23105/چشم-انداز"> چشم انداز </a><a class="mnu_title " href="page/23106/بیانیه-ماموریت">بیانیه ماموریت </a><a class="mnu_title " href="page/23118/ارزش-ها">ارزش ها </a><a class="mnu_title " href="page/7189/امکانات-و-فعالیت-های-مرکز">امکانات و فعالیت های مرکز</a><a class="mnu_title nocursor" href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#">رئیس مرکز</a><a href="page/8300/معرفی-مدیر">معرفی رئیس</a><a href="page/7134/مدیران-سابق">روسای سابق</a></div><div class="cell"><a class="mnu_title " href="http://ict.khu.ac.ir/persons.php?slc_lang=fa&amp;sid=31">کارشناسان مرکز</a><a class="mnu_title nocursor" href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#">طرح ها و عملکرد</a><a href="page/8035/طرح-های-اجرا-شده">طرح های اجرا شده</a><a href="page/8047/طرح-های-در-حال-اجرا">طرح های در حال اجرا</a><a href="page/6957/طرح-های-در-دست-بررسی">طرح های در دست بررسی</a></div><div class="cell"><div class="container"><img alt="" src="./files/site31/modern01/menu_cover_3.jpg"></div></div></div></div></div><div class="items nothover"><a class="title triangle">من میخواهم...<span class="mob_icon_actian"></span></a><div class="content"><div class="tb columns_3"><div class="cell"><a class="mnu_title " href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13">درخواست پست الکترونیک دهم</a><a class="mnu_title " href="https://ict.khu.ac.ir/dform/99/96/">رمز عبور پست الکترونیک خود را بازیابی کنم </a><a class="mnu_title " href="https://ict.khu.ac.ir/page/23125/%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7">از وضعیت سامانه های دانشگاه مطلع شوم </a><a class="mnu_title " href="ftp:/share.khu.ac.ir/">به بانک نرم افزاری دانشگاه دسترسی داشته باشم </a><a class="mnu_title " href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=85&amp;proced_id=88">درخواست اینترنت پرسرعت خانگی پارس آنلاین دهم </a><a class="mnu_title " href="http://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=15&amp;proced_id=11"> درخواست اکانت Office 365 دهم </a><a class="mnu_title " href="https://ict.khu.ac.ir/dform/109/105/"> درخواست کار دانشجویی و کارآموزی در مرکز فاوا دهم</a><a class="mnu_title " href="ftp:/share.khu.ac.ir/Antivirus%20Tools/Symantec%20Endpoint%20Protection/">از آنتی ویروس دانشگاه استفاده کنم.</a></div><div class="cell"><a class="mnu_title " href="https://ict.khu.ac.ir/dform/113/109/"> پست الکترونیک دانشگاهی خود را پس از فارغ التحصیلی تمدید کنم. </a></div><div class="cell"><div class="container"><img alt="" src="./files/site31/modern01/menu_cover_3.jpg"></div></div></div></div></div><div class="items nothover"><a class="title triangle">ورود به ...<span class="mob_icon_actian"></span></a><div class="content"><div class="tb columns_3"><div class="cell"><a class="mnu_title " href="http://erp.khu.ac.ir/UserLogin.aspx">اتوماسیون جامع اداری دیدگاه (چارگون)</a><a class="mnu_title " href="https://golestan.khu.ac.ir/home/Default.htm">اتوماسیون آموزشی گلستان</a><a class="mnu_title " href="http://meal.khu.ac.ir/identity/login?signin=e4bd3588b70e0cf31c91411e144dcf85">اتوماسیون تغذیه کرج </a><a class="mnu_title " href="https://mail.khu.ac.ir/">پست الکترونیک دانشگاه </a><a class="mnu_title " href="http://rds.khu.ac.ir/">سامانه اطلاعات پژوهشی</a><a class="mnu_title " href="http://efood.khu.ac.ir/">اتوماسیون تغذیه تهران </a><a class="mnu_title " href="http://pay.khu.ac.ir:8080/Account/Login.aspx">فیش حقوقی </a><a class="mnu_title " href="http://webkart.khu.ac.ir:82/Account/Login?AppLoginUrl=http://webkart.khu.ac.ir/user/applogin&amp;returnUrl=%2f">سامانه فرم های اداری</a></div><div class="cell"><a class="mnu_title " href="http://learning.khu.ac.ir/">سامانه آموزش کارکنان</a><a class="mnu_title " href="http://libportal.khu.ac.ir/web/guest/main;jsessionid=A2230D180E078E95C024C14A9CE6AF22">کتابخانه دیجیتال</a></div><div class="cell"><div class="container"><img alt="" src="./files/site31/modern01/menu_cover_3.jpg"></div></div></div></div></div><div class="items nothover"><a class="title triangle">راهنما<span class="mob_icon_actian"></span></a><div class="content"><div class="tb columns_2"><div class="cell"><a class="mnu_title " href="page/24351/راهنمای-عمومی">راهنمای عمومی </a><a class="mnu_title " href="page/24361/راهنمای-دانشجویان">راهنمای دانشجویان</a><a class="mnu_title " href="page/24353/راهنمای-اساتید">راهنمای اساتید</a><a class="mnu_title " href="page/24354/راهنمای-کارمندان">راهنمای کارمندان </a><a class="mnu_title " href="page/24355/راهنمای-دانش-آموختگان">راهنمای دانش آموختگان</a></div><div class="cell"><div class="container"><img alt="" src="./files/site31/modern01/menu_cover_2.jpg"></div></div></div></div></div><div class="items nothover"><a class="title triangle">ارتباط با ما<span class="mob_icon_actian"></span></a><div class="content"><div class="tb columns_2"><div class="cell"><a class="mnu_title " href="page/24417/واحد-کرج">واحد کرج</a><a class="mnu_title " href="page/24418/واحد-تهران">واحد تهران</a></div><div class="cell"><div class="container"><img alt="" src="./files/site31/modern01/menu_cover_2.jpg"></div></div></div></div></div></nav>
+		</div>
+		<div class="cell">
+			<div class="left_box">
+				<div class="date">
+				جمعه ۶ دی ۱۳۹۸
+				<a class="white_link" href="http://ict-old.khu.ac.ir"> ( OLD SITE ) </a>
+				</div>
+				<a class="tag_line" href="./index.php?sid=31&amp;slc_lang=fa">
+					مرکز فناوری اطلاعات و ارتباطات
+				</a>
+			</div>
+		</div>
+</header>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		//	mob
+		if (window.innerWidth <= 1024) {
+			$("#header").attr("data-status",'scroll');
+			$("#sub_hd_mnu").attr("data-status",'scroll');
+			$("#header .menu nav .items").addClass("nothover");
+			$("#header .menu nav .items .content").css("transition", "none");
+			$("#header .menu nav .items").click(function()
+			{
+				if($(this).attr("data-show")=="true")
+				{
+					$("#header .menu nav .items .content").slideUp();
+					$("#header .menu nav .items").attr("data-show","false");
+				}else
+				{
+					$("#header .menu nav .items").attr("data-show","false");
+					$(this).attr("data-show","true");
+					$("#header .menu nav .items .content").slideUp();
+					$(this).find(".content").slideDown(1);
+				}
+			});
+			///
+			$("#header .menu nav .items .title").each(function(i)
+			{
+				$(this).append( '<span class="mob_icon_actian"></span>' );
+			});
+			$("#sub_hd_mnu nav .items .title.triangle").each(function(i)
+			{
+				$(this).removeAttr("href").append( '<span class="mob_icon_actian"></span>' );
+			});
+
+			$("#sub_hd_mnu nav .items").addClass("nothover");
+			$("#sub_hd_mnu nav .items").click(function()
+			{
+				if($(this).attr("data-show")=="true")
+				{
+					$("#sub_hd_mnu nav .items .content").slideUp();
+					$("#sub_hd_mnu nav .items").attr("data-show","false");
+				}else
+				{
+					$("#sub_hd_mnu nav .items").attr("data-show","false");
+					$(this).attr("data-show","true");
+					$("#sub_hd_mnu nav .items .content").slideUp();
+					$(this).find(".content").slideDown(1);
+				}
+			});
+			///
+			$( ".masterTooltip" ).removeClass( "masterTooltip" )
+			$( ".masterTooltip" ).removeAttr( "title" );
+
+
+
+		}
+		else
+		{
+			$("#header").attr("data-show",false);
+			$("#header .arrow").attr("data-show","false");
+			$(window).on( 'scroll', function(){
+				if(window.scrollY || window.pageYOffset > 200){
+					$("#sub_hd_mnu").attr("data-status","scroll");
+					$("#header").attr("data-status","scroll");
+					$(".sub_header .circle").attr("data-status","scroll");
+
+				}else{
+					$("#sub_hd_mnu").attr("data-status","false");
+					$("#header").attr("data-status","false");
+					$(".sub_header .circle").attr("data-status","false");
+				}
+			});
+		}
+	});
+</script>
+<script type="text/javascript">
+
+	$("#header .arrow").click(function()
+	{
+		var show=$(this).attr("data-show")=="true"?"false":"true";
+		$("#header").attr("data-show",show);
+		$(this).attr("data-show",show);
+	});
+	////////////////
+	$("header .search_icon").click(function()
+	{
+		$("#search_box").attr("data-show","open");
+	});
+	$("#search_box span.close").click(function()
+	{
+		$("#search_box").attr("data-show","close");
+	});
+	///////////////
+	$("header .login").click(function()
+	{
+		$("#login").attr("data-show","open");
+	});
+	$("#login span.close").click(function()
+	{
+		$("#login").attr("data-show","close");
+	});
+	///////////////
+	$("#header .services").click(function()
+	{
+		$("#online_services_box").attr("data-show","open");
+	});
+	$("#online_services_box span.close").click(function()
+	{
+		$("#online_services_box").attr("data-show","close");
+	});
+	//////////////////
+	$("#sub_hd_mnu .menu_mob_btn").click(function()
+	{
+		var show=$(this).attr("data-show")=="true"?"false":"true";
+		$("#sub_hd_mnu  .box_menu").attr("data-show",show);
+		$(this).attr("data-show",show);
+	});
+	//////
+	$( "#menu_back" ).css("display","none")
+	$( "#menu_back #awt_navmenu > li" ).each(function( index )
+	{
+		var items='<div class="items">'
+		var image="menu_cover_2";
+		var text=$( this ).first().find('a').html();
+		var href=$( this ).find('a').attr('href');
+		var glb_sid="31";
+		if($( this ).has( "li" ).length == '0'){
+			items+='<a href="'+href+'" class="title">'+text+'</a>';
+		}else{
+			items+='<a href="'+href+'" class="title triangle">'+text+'</a><div class="content"><div class="tb columns_2"><div class="cell">';
+			var linkNum=1;
+			$( this ).find("li.lvl_2").each(function( index )
+			{
+				var text=$( this ).first().find('a').html();
+				var href=$( this ).find('a').attr('href');
+ 				var nocursor='';
+				if(href=='#'){
+ 					nocursor='nocursor';
+				};
+ 				items+='<a class="mnu_title '+nocursor+'" href="'+href+'" >'+text+'</a>';
+				if($( this ).has( "ul" ).length > '0')
+				{
+					$( this ).find("li.lvl_3").each(function( index )
+					{
+						var text=$( this ).first().find('a').html();
+						var href=$( this ).find('a').attr('href');
+						items+='<a href="'+href+'" >'+text+'</a>';
+						if( linkNum==8){
+							items+='</div><div class="cell">';
+							items = items.replace("columns_2", "columns_3");
+							image="menu_cover_3";
+						}
+						if( linkNum==17){
+							items+='</div><div class="cell">';
+							items = items.replace("columns_3", "columns_4");
+							image="menu_cover_4";
+						}
+						linkNum+=1;
+					});
+				}
+				//
+				if( linkNum==8){
+					items+='</div><div class="cell">';
+					items = items.replace("columns_2", "columns_3");
+					image="menu_cover_3";
+				}
+				if( linkNum==17){
+					items+='</div><div class="cell">';
+					items = items.replace("columns_3", "columns_4");
+					image="menu_cover_4";
+				}
+				linkNum+=1;
+			});
+
+			items+='</div><div class="cell"><div class="container"><img  alt="" src="./files/site'+glb_sid+'/modern01/'+image+'.jpg" /></div></div></div></div>';
+		}
+		items+='</div>';
+		$( "#sub_hd_mnu  #nav_top" ).append( items );
+
+	});
+</script>
+
+
+
+
+
+<div dir="rtl" class="yw_box">
+    <div class="yw_text_small persian">
+    <h2>
+    درخواست ایمیل آکادمیک دانشگاه
+    </h2>
+    </div>
+
+    <div class="clr"></div>
+
+    <div>
+    <br>
+
+
+
+
+
+
+			<form name="myDynFrm" id="myDynFrm" action="mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;mod=put&amp;mismod=&amp;hmb=&amp;hbnr=" method="post" enctype="multipart/form-data">
+			<table dir="rtl" class="tableline1" width="100%" cellspacing="2" cellpadding="8" border="0" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody><tr>
+    <td colspan="2" class="textmed" id="form_start">
+    <div style="text-align: center;"><strong style="text-align: center;"><span style="color: rgb(165, 42, 42);"><span style="font-size: 14px;">&nbsp;مختص اعضای محترم هیات علمی،کارکنان و دانشجویان گرامی دانشگاه خوارزمی</span></span></strong><br>
+<br>
+&nbsp;</div>
+
+<div><strong style="text-align: center;"><span style="color:#000080;"><span style="font-size: 14px;"><span style="font-size:12px;">لطفاً به نکات زیر توجه بفرمایید:</span></span></span><br>
+<span style="color:#000080;"><span style="font-size: 14px;"><span style="font-size:12px;">-هر فرد حقیقی مجاز به انتخاب یک نام کاربری می باشد و امکان تغییر وجود ندارد.<br>
+-همواره از اطلاعات موجود در Mailbox خود نسخه پشتیبان داشته باشید. دانشگاه در قبال حفظ اطلاعات شما هیچ مسئولیتی نخواهد داشت.<br>
+-اطلاعات فرم ثبت نام دانشجویان با <u><span style="background-color:#F0FFFF;">سیستم آموزش دانشگاه </span></u>چک می شود لذا هنگام پر کردن فرم از صحت اطلاعات وارد شده اطمینان حاصل فرمایید.<br>
+-اعتبار اکانت ایمیل ایجاد شده، برای<span style="background-color:#F0FFFF;"> دانشجویان کارشناسی و کارشناسی ارشد تا 3 ماه پس از&nbsp;</span><u><span style="background-color:#F0FFFF;">پایان دوران تحصیلی</span></u><span style="background-color:#F0FFFF;"> </span>و <span style="background-color:#F0FFFF;">دانشجویان دکتری، </span><u><span style="background-color:#F0FFFF;">یک سال پس از فراغت از تحصیل</span></u><span style="background-color:#F0FFFF;"> </span>می باشد.</span></span></span></strong></div>
+<br>موارد الزامی با علامت ستاره (<font size="2" color="#FF0000">*</font>) مشخص شده‌اند.
+    </td>
+</tr>
+
+
+
+
+
+
+
+			<tr height="5px">
+				<td colspan="2" class="row2t1"></td>
+			</tr>
+
+
+
+
+
+			<tr>
+				<td class="row2t1" width="1%">
+				<img src="./files/0allsites/panel/images/blt1.gif" alt="::" width="7px" height="7px">
+				</td>
+				<td class="row2t1" width="99%">
+				<strong>مشخصات</strong>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" class="textmed">
+				
+                <hr>
+				</td>
+			</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-نام :">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_50" id="all_ques_chktype_50" class="q_chktypes" type="hidden" value="">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_50" id="ques_min_50" type="hidden" value="0">
+				<input name="ques_max_50" id="ques_max_50" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -نام :<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_50" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-نام خانوادگی:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_59" id="all_ques_chktype_59" class="q_chktypes" type="hidden" value="">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_59" id="ques_min_59" type="hidden" value="0">
+				<input name="ques_max_59" id="ques_max_59" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -نام خانوادگی:<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_59" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-First Name:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_60" id="all_ques_chktype_60" class="q_chktypes" type="hidden" value="">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_60" id="ques_min_60" type="hidden" value="0">
+				<input name="ques_max_60" id="ques_max_60" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -First Name:<span class="yw_required"></span> 
+                            <br><div style="text-align: justify;"></div>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_60" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-Last Name:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_61" id="all_ques_chktype_61" class="q_chktypes" type="hidden" value="">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_61" id="ques_min_61" type="hidden" value="0">
+				<input name="ques_max_61" id="ques_max_61" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -Last Name:<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_61" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-شماره دانشجویی-شماره پرسنلی:
+
+">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_63" id="all_ques_chktype_63" class="q_chktypes" type="hidden" value="num">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_63" id="ques_min_63" type="hidden" value="0">
+				<input name="ques_max_63" id="ques_max_63" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -شماره دانشجویی-شماره پرسنلی:
+
+<span class="yw_required"></span> <font size="2" color="green">تنها پاسخ منحصر به فرد از هر کاربر پذیرفته می‌شود.</font>
+                            <br><span style="font-size:12px;"><span style="font-family:tahoma;"><strong><span style="color:#000080;">(اساتید و کارمندان کد ملی خود را وارد نمایند.)</span></strong></span></span>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_63" style="direction:ltr;" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-وابستگی دانشگاهی:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_64" id="all_ques_chktype_64" class="q_chktypes" type="hidden" value="">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_64" id="ques_min_64" type="hidden" value="0">
+				<input name="ques_max_64" id="ques_max_64" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+					<tr>
+						<td colspan="2" class="textmed">
+
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							  <tbody><tr>
+								<td class="textmed" width="30%">
+                                 -وابستگی دانشگاهی:<span class="yw_required"></span> 
+                                 <br>
+								</td>
+								<td width="70%">
+								<select name="all_rep[]" id="co_sel_64" class="all_rep_64 all_reply_selects">
+								 <option value="">انتخاب کنید...</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="عضو هیات علمی" data-rank="0" data-cost="0" class="persian">عضو هیات علمی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="کارمند " data-rank="0" data-cost="0" class="persian">کارمند </option>
+
+
+								 <option style="background-color:#E0FFFF; " value="دانشجوی کارشناسی" data-rank="0" data-cost="0" class="persian">دانشجوی کارشناسی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="دانشجوی کارشناسی ارشد " data-rank="0" data-cost="0" class="persian">دانشجوی کارشناسی ارشد </option>
+
+
+								 <option style="background-color:#E0FFFF; " value="دانشجوی دکترا " data-rank="0" data-cost="0" class="persian">دانشجوی دکترا </option>
+
+
+								 <option style="background-color:#E0FFFF; " value="ایمیل بخش های مختلف اداری" data-rank="0" data-cost="0" class="persian">ایمیل بخش های مختلف اداری</option>
+
+
+								</select>
+								</td>
+							  </tr>
+							</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-نام دانشکده/محل کار :">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_65" id="all_ques_chktype_65" class="q_chktypes" type="hidden" value="let">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_65" id="ques_min_65" type="hidden" value="0">
+				<input name="ques_max_65" id="ques_max_65" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+					<tr>
+						<td colspan="2" class="textmed">
+
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							  <tbody><tr>
+								<td class="textmed" width="30%">
+                                 -نام دانشکده/محل کار :<span class="yw_required"></span> 
+                                 <br>
+								</td>
+								<td width="70%">
+								<select name="all_rep[]" id="co_sel_65" onkeyup="auto_direction(this);" class="all_rep_65 all_reply_selects">
+								 <option value="">انتخاب کنید...</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="ادبیات و علوم انسانی" data-rank="0" data-cost="0" class="persian">ادبیات و علوم انسانی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="اقتصاد" data-rank="0" data-cost="0" class="persian">اقتصاد</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="پردیس بین الملل تهران " data-rank="0" data-cost="0" class="persian">پردیس بین الملل تهران </option>
+
+
+								 <option style="background-color:#E0FFFF; " value="تربیت بدنی و علوم ورزشی" data-rank="0" data-cost="0" class="persian">تربیت بدنی و علوم ورزشی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="حقوق و علوم سیاسی" data-rank="0" data-cost="0" class="persian">حقوق و علوم سیاسی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="روانشناسی و علوم تربیتی" data-rank="0" data-cost="0" class="persian">روانشناسی و علوم تربیتی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="شیمی" data-rank="0" data-cost="0" class="persian">شیمی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="علوم جغرافیایی" data-rank="0" data-cost="0" class="persian">علوم جغرافیایی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="علوم ریاضی و کامپیوتر" data-rank="0" data-cost="0" class="persian">علوم ریاضی و کامپیوتر</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="علوم زمین " data-rank="0" data-cost="0" class="persian">علوم زمین </option>
+
+
+								 <option style="background-color:#E0FFFF; " value="علوم زیستی" data-rank="0" data-cost="0" class="persian">علوم زیستی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="علوم مالی" data-rank="0" data-cost="0" class="persian">علوم مالی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="فنی و مهندسی" data-rank="0" data-cost="0" class="persian">فنی و مهندسی</option>
+
+
+								 <option style="background-color:#E0FFFF; " value=" فیزیک" data-rank="0" data-cost="0" class="persian"> فیزیک</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="مدیریت" data-rank="0" data-cost="0" class="persian">مدیریت</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="هنر و معماری" data-rank="0" data-cost="0" class="persian">هنر و معماری</option>
+
+
+								 <option style="background-color:#E0FFFF; " value="بخش های مختلف اداری" data-rank="0" data-cost="0" class="persian">بخش های مختلف اداری</option>
+
+
+								</select>
+								</td>
+							  </tr>
+							</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-تلفن همراه:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_66" id="all_ques_chktype_66" class="q_chktypes" type="hidden" value="mobile">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_66" id="ques_min_66" type="hidden" value="0">
+				<input name="ques_max_66" id="ques_max_66" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -تلفن همراه:<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_66" style="direction:ltr;" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<tr>
+				<td colspan="2" style="background-image:url(./templates/tmpl_modern01/images/bgbar4.gif) " height="3" align="center"></td>
+			</tr>
+
+
+
+
+			<tr>
+				<td class="row2t1" width="1%">
+				<img src="./files/0allsites/panel/images/blt1.gif" alt="::" width="7px" height="7px">
+				</td>
+				<td class="row2t1" width="99%">
+				<strong>بخش مربوط به ایمیل </strong>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" class="textmed">
+				<p><span style="font-size:12px;"><span style="color:#000080;"><font style="font-family: Verdana, Helvetica, Arial, sans-serif; text-align: right;"><b>-آدرس ايميل بايد متناسب با نام و نام خانوادگي فرد درخواست کننده باشد .&nbsp;<br>
+-ایمیلی که ایجاد می شود به ترتیب اولویت وارد شده است.<br>
+-تمامی آدرس های پست الکترونیک تحت دامنه Khu.ac.ir@خواهد بود.<br>
+- آدرس ایمیل دانشجویان به این فرمت میباشد.( Khu.ac.ir@ایمیل پیشنهادی_Std)<br>
+- جهت جلوگیری از تکراری بودن نام کاربری لطفاً 3 پیشنهاد مطابق با نام خانوادگی و نام خود ارائه نمایید.</b></font></span></span></p>
+
+                <hr>
+				</td>
+			</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-ایمیل پیشنهادی 1:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_67" id="all_ques_chktype_67" class="q_chktypes" type="hidden" value="email">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_67" id="ques_min_67" type="hidden" value="0">
+				<input name="ques_max_67" id="ques_max_67" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -ایمیل پیشنهادی 1:<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_67" style="direction:ltr;" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-ایمیل پیشنهادی 2:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_90" id="all_ques_chktype_90" class="q_chktypes" type="hidden" value="email">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_90" id="ques_min_90" type="hidden" value="0">
+				<input name="ques_max_90" id="ques_max_90" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -ایمیل پیشنهادی 2:<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_90" style="direction:ltr;" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-ایمیل پیشنهادی 3:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_91" id="all_ques_chktype_91" class="q_chktypes" type="hidden" value="email">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_91" id="ques_min_91" type="hidden" value="0">
+				<input name="ques_max_91" id="ques_max_91" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -ایمیل پیشنهادی 3:<span class="yw_required"></span> 
+                            <br>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_91" style="direction:ltr;" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<tr>
+				<td colspan="2" style="padding:0" class="row2t1">
+
+				<input name="all_ques[]" type="hidden" value="-ایمیل اضطراری:">
+				<input name="all_ques_oblig[]" type="hidden" value="1">
+				<input name="all_ques_chktype_89" id="all_ques_chktype_89" class="q_chktypes" type="hidden" value="email">
+				<input name="all_ques_min[]" type="hidden" value="0">
+				<input name="all_ques_max[]" type="hidden" value="100000">
+				<input name="ques_min_89" id="ques_min_89" type="hidden" value="0">
+				<input name="ques_max_89" id="ques_max_89" type="hidden" value="100000">
+
+				</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<tr>
+						<td colspan="2">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+						  <tbody><tr>
+							<td class="textmed" width="30%" valign="top">
+                            -ایمیل اضطراری:<span class="yw_required"></span> 
+                            <br><span style="color:#000080;"><strong><span style="font-size:12px;"><span style="font-family:tahoma;">ایمیل پشتیبان جهت ارسال پسورد مانند(Yahooیا Gmail)</span></span></strong></span>
+							</td>
+							<td class="textmed" width="70%">
+							<input name="all_rep[]" id="co_slt_89" style="direction:ltr;" type="text" value="" size="50" class="maxwSmall">
+							
+							
+							</td>
+						  </tr>
+						</tbody></table>
+
+						</td>
+					</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<tr>
+				<td colspan="2" style="background-image:url(./templates/tmpl_modern01/images/bgbar4.gif) " height="3" align="center"></td>
+			</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<tr>
+				<td colspan="2" align="center">
+
+
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2" align="center">
+				<input name="res_id" type="hidden" value="">
+				<div id="submit_btm">
+
+
+				 <input type="submit" name="submit_the_form" id="submit_the_form" value="ارسال اطلاعات" class="mainoption submit_the_form">
+				</div>
+				<input name="f_id" type="hidden" value="17">
+				<input name="f_proced_id" type="hidden" value="13">
+				<input name="f_track_code" type="hidden" value="P13-F17-U0-N54236">
+				<input name="fill_num" type="hidden" value="54236">
+				<input name="presenter_case" type="hidden" value="">
+				<input name="revinfo_case" type="hidden" value="">
+				<input name="revbyauth_case" type="hidden" value="">
+				<input name="a_code" type="hidden" value="">
+				<input name="a_ordnum" type="hidden" value="">
+				<input name="mis_selftest_case" type="hidden" value="">
+				<input name="mag_id" type="hidden" value="">
+				<input name="edit_pass_saved" type="hidden" value="">
+				<input name="wrk_id" type="hidden" value="">
+
+			</td>
+
+			</tr><tr>
+				<td colspan="2" align="center">
+				
+				</td>
+			</tr>
+
+
+
+
+
+
+
+
+			</tbody></table>
+
+			</form>
+
+
+</div></div>
+
+
+
+
+
+<script language="javascript">
+
+function check_paid(pay_hash)
+{
+	if(pay_hash!='')
+	{
+		$("#pay_track").val(pay_hash);
+		$('#pay_track').addClass("hideme").removeClass("hideme");
+		ready_for_submit();
+	}
+}
+
+function ready_for_submit()
+{
+	 var myTrackCode = $("#pay_track").val();
+	 if(myTrackCode!='')
+	 {
+			$('#submit_the_form').addClass("hideme_force").removeClass("hideme_force");
+	 }
+}
+
+function ready_for_pay()
+{
+	var myCost=0;
+	var myText='';
+	var myCost_all=0;
+	var myText_all='';
+	//var myId = this.id;
+
+	$('.all_reply_selects').each(function ()
+	{
+
+		var myCost = $(this).children('option:selected').data('cost');
+		var myText = $(this).children('option:selected').text();
+		//alert(myCost);
+		//alert(myText);
+		if(myCost>0)
+		{
+		myCost_all += myCost;
+		myText_all += "<br>"+myText;
+		}
+	});
+
+	$('.all_reply_checks').each(function ()
+	{
+		if($(this).prop('checked') == true)
+		{
+		   var myCost = $(this).data('cost');
+		   var myText = $(this).val();
+		}
+
+		if(myCost>0)
+		{
+		myCost_all += myCost;
+		myText_all += "<br>"+myText;
+		}
+	});
+
+	$('.all_reply_radios').each(function ()
+	{
+		if($(this).prop('checked') == true)
+		{
+		   var myCost = $(this).data('cost');
+		   var myText = $(this).val();
+		}
+
+		if(myCost>0)
+		{
+		myCost_all += myCost;
+		myText_all += "<br>"+myText;
+		}
+	});
+	//alert(myCost_all);
+	var pay_link="form_epay_start.php?slc_lang=fa&sid=31&formcode=P13-F17-U0-N54236";
+	if(myCost_all>0)
+	{
+		myText_all += "<hr> جمع هزینه قابل پرداخت: "+ myCost_all + "ریال";
+
+		$('#pay_div').addClass("hideme").removeClass("hideme");
+		$('#pay_info').addClass("hideme").removeClass("hideme");
+		$('#pay_text').addClass("hideme").removeClass("hideme");
+		$('#pay_text').html(myText_all);
+		$('#total_cost').val(myCost_all);
+
+		if($("#pay_track").val()=='')
+		{
+		$('#submit_the_form').removeClass("hideme_force").addClass("hideme_force");
+		}
+		else
+		{
+		$('#submit_the_form').addClass("hideme_force").removeClass("hideme_force");
+		}
+		var pay_contact_record = $("#pay_contact").val();
+		if(pay_contact_record=='876875785')
+		{
+			swal({
+				title: "",
+				text: "لطفا ایمیل یا پست الکترونیک خود را وارد کنید",
+				type: "error",
+				confirmButtonText: "Ok"
+			});
+		}
+		var es_paym_val = $('.nice-select').find('.selected').attr('data-value');
+		pay_link = pay_link + "&total_cost="+myCost_all+"&pay_contact="+pay_contact_record+"&es_paym="+es_paym_val;
+		$('#pay_linker').attr("data-href", pay_link);
+	}
+	else
+	{
+		$('#pay_div').removeClass("hideme").addClass("hideme");
+		$('#pay_info').removeClass("hideme").addClass("hideme");
+		$('#pay_text').removeClass("hideme").addClass("hideme");
+		$('#total_cost').val(myCost_all);
+		$('#submit_the_form').addClass("hideme_force").removeClass("hideme_force");
+	}
+
+}
+
+
+
+$(document).ready(function()
+{
+	$('.all_reply_selects, .all_reply_checks, .all_reply_radios, .reset_the_form, .submit_the_form, #pay_type ').on('change', function ()
+	{
+		ready_for_pay();
+	});
+
+
+	$('#pay_contact').on('keyup change input paste' , function ()
+	{
+		ready_for_pay();
+	});
+
+
+
+	$('.reset_the_form').on('click', function ()
+	{
+		$('#myDynFrm')[0].reset();
+		ready_for_pay();
+	});
+
+	$('#pay_track').on('keyup change input paste' , function ()
+	{
+		ready_for_submit();
+	});
+
+	$('#pay_linker').on('click' , function (e)
+	{
+		 check_form_data(1);
+	});
+
+	function update_totals()
+	{
+		if($(".totalRank").length)
+		{
+				$('.totalRank').each(function()
+				{
+					var myTotalRank=0;
+					var myId = this.id;
+					var myData = $(this).data('values');
+					//alert(myData);
+					if(myData!='')
+					{
+						var myDataArr = myData.split('-');
+						var l = myDataArr.length;
+						var i = 0;
+						//alert(myDataArr);
+
+						for (var item in myDataArr)
+						{
+							var targetQ = myDataArr[item ];
+							//alert(targetQ);
+							if(targetQ>0)
+							{
+								var targetID = 'all_rep_'+targetQ;
+								//alert(targetID);
+								if($("."+targetID).length)
+								{
+									//alert(targetID);
+									var tgtRank = 0;
+									var selected = $("."+targetID+":checked");
+									if($(selected).length)
+									{
+										tgtRank = selected.data('rank');
+										if((tgtRank!=0)&&(tgtRank!=undefined))
+										{
+											//alert( tgtRank);
+											myTotalRank += tgtRank ;
+										}
+									}
+
+									var selected = $("."+targetID+" option:selected");
+									if($(selected).length)
+									{
+										tgtRank = selected.data('rank');
+										if((tgtRank!=0)&&(tgtRank!=undefined))
+										{
+											myTotalRank += tgtRank ;
+										}
+									}
+
+
+								}
+							}
+						}
+						$("#"+myId).val(myTotalRank);
+					}
+
+				});
+		}
+	}
+
+	update_totals();
+
+	$('#myDynFrm').on('keyup change', 'input, select, textarea', function(){
+		update_totals();
+	});
+
+
+
+
+
+
+
+
+
+
+
+	var checking_file_size=1;
+
+	var size_error_msg = 'حجم فایل باید کمتر از SIZE باشد.';
+	var ext_error_msg = 'فایل باید از یکی از انواع EXT باشد';
+
+
+
+
+});
+
+
+
+
+
+document.querySelector('#myDynFrm').addEventListener('submit', function(e)
+{
+	var form = this;
+	e.preventDefault();
+	check_form_data(0);
+});
+
+function check_form_data(just_check)
+{
+	var all_errors=0;
+	var all_obligats = 'co_slt_50-co_slt_59-co_slt_60-co_slt_61-co_slt_63-co_sel_64-co_sel_65-co_slt_66-co_slt_67-co_slt_90-co_slt_91-co_slt_89-';
+	var input_errors=0;
+
+	var this_oblig='';
+
+	var obligat_arr = all_obligats.split("-");
+	for (i = 0; i < obligat_arr.length; i++)
+	{
+		this_oblig = obligat_arr[i];
+		var the_qid = parseInt(this_oblig.replace(/[^0-9\.]/g, ''), 10);
+
+		if((this_oblig.indexOf('rad') !== -1))
+		{
+			var class_for_this = 'all_rep_'+the_qid;
+			var reps_for_this = 'radio_reps_'+the_qid;
+
+
+			if($("input:radio[class*='"+class_for_this+"']").is(":checked"))
+			{
+				$('#'+reps_for_this).removeClass("input_alarm");
+			}
+			else
+			{
+				$('#'+reps_for_this).addClass("input_alarm");
+				input_errors++;
+			}
+		}
+		else
+		if((this_oblig.indexOf('chk') !== -1))
+		{
+			var class_for_this = 'all_rep_'+the_qid;
+			var reps_for_this = 'check_reps_'+the_qid;
+
+
+			if($("input:checkbox[class*='"+class_for_this+"']").is(":checked"))
+			{
+				$('#'+reps_for_this).removeClass("input_alarm");
+			}
+			else
+			{
+				$('#'+reps_for_this).addClass("input_alarm");
+				input_errors++;
+			}
+		}
+		else
+		if((this_oblig.indexOf('slt') !== -1)||(this_oblig.indexOf('mlt') !== -1))
+		{
+			var this_oblig_val = $('#'+this_oblig).val();
+			var min_for_this =  $('#ques_min_'+the_qid).val();
+			var max_for_this =  $('#ques_max_'+the_qid).val();
+
+
+
+			if( (this_oblig_val=='') || (this_oblig_val.length < min_for_this) || (this_oblig_val.length > max_for_this) )
+			{
+				$('#'+this_oblig).addClass("input_alarm");
+				input_errors++;
+			}
+			else
+			{
+				$('#'+this_oblig).removeClass("input_alarm");
+			}
+
+
+		}
+		else
+		if(this_oblig.indexOf('sel') !== -1)
+		{
+			var this_oblig_val = $('#'+this_oblig).val();
+			if(this_oblig_val=='')
+			{
+				$('#'+this_oblig).addClass("input_alarm");
+				input_errors++;
+			}
+			else
+			{
+				$('#'+this_oblig).removeClass("input_alarm");
+			}
+
+
+		}
+		else
+		if(this_oblig.indexOf('upl') !== -1)
+		{
+			var this_oblig_val = $('#'+this_oblig).val();
+			if(this_oblig_val=='')
+			{
+				$('#'+this_oblig).addClass("input_alarm");
+				input_errors++;
+			}
+			else
+			{
+				$('#'+this_oblig).removeClass("input_alarm");
+			}
+		}
+		else
+		if(this_oblig.indexOf('co_jal') !== -1)
+		{
+			var this_oblig_val = $('#'+this_oblig).val();
+
+			if(this_oblig.indexOf('year') !== -1)
+			{
+				if((this_oblig_val<1300)|| (this_oblig_val>1500))
+				{
+					$('#'+this_oblig).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$('#'+this_oblig).removeClass("input_alarm");
+				}
+			}
+			else
+			if(this_oblig.indexOf('month') !== -1)
+			{
+				if((this_oblig_val<1)|| (this_oblig_val>12))
+				{
+					$('#'+this_oblig).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$('#'+this_oblig).removeClass("input_alarm");
+				}
+			}
+			else
+			if(this_oblig.indexOf('day') !== -1)
+			{
+				if((this_oblig_val<1)|| (this_oblig_val>31))
+				{
+					$('#'+this_oblig).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$('#'+this_oblig).removeClass("input_alarm");
+				}
+			}
+		}
+		else
+		if(this_oblig.indexOf('co_grg') !== -1)
+		{
+			var this_oblig_val = $('#'+this_oblig).val();
+
+			if(this_oblig.indexOf('year') !== -1)
+			{
+				if((this_oblig_val<1900)|| (this_oblig_val>2100))
+				{
+					$('#'+this_oblig).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$('#'+this_oblig).removeClass("input_alarm");
+				}
+			}
+			else
+			if(this_oblig.indexOf('month') !== -1)
+			{
+				if((this_oblig_val<1)|| (this_oblig_val>12))
+				{
+					$('#'+this_oblig).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$('#'+this_oblig).removeClass("input_alarm");
+				}
+			}
+			else
+			if(this_oblig.indexOf('day') !== -1)
+			{
+				if((this_oblig_val<1)|| (this_oblig_val>31))
+				{
+					$('#'+this_oblig).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$('#'+this_oblig).removeClass("input_alarm");
+				}
+			}
+		}
+		else
+		if(this_oblig.indexOf('tbl') !== -1)
+		{
+			var class_for_this = 'tbl_box_'+the_qid;
+			$('.'+class_for_this).each(function()
+			{
+				var this_oblig_val =  $(this).val();
+				if(this_oblig_val=='')
+				{
+					$(this).addClass("input_alarm");
+					input_errors++;
+				}
+				else
+				{
+					$(this).removeClass("input_alarm");
+				}
+
+			});
+
+		}
+
+
+	}
+
+
+	$('.q_chktypes').each(function()
+	{
+		//id="all_ques_chktype_"
+		var myId = this.id;
+		//alert(myId);
+		var chkTyp = $(this).val();
+		if(chkTyp!='')
+		{
+			var pureId = myId.replace('all_ques_chktype_','');
+			var obj_reply1 = $("#co_slt_"+pureId);
+			var obj_reply2 = $("#co_mlt_"+pureId);
+			//alert(obj_reply1);
+
+			var obj_reply = '';
+			if((obj_reply1).length)
+			{
+				var obj_reply = obj_reply1;
+			}
+			else if((obj_reply2).length)
+			{
+				var obj_reply = obj_reply2;
+			}
+			if(obj_reply!='')
+			{
+				var obj_reply_val = obj_reply.val().trim();
+
+				if(obj_reply_val!='')
+				{
+					//alert(obj_reply_val);
+					if(chkTyp=='email')
+					{
+						if(!isValidEmailAddress(obj_reply_val))
+						{
+							obj_reply.addClass("input_alarm");
+							input_errors++;
+						}
+						else
+						{
+							obj_reply.removeClass("input_alarm");
+						}
+
+					}
+					else if(chkTyp=='num')
+					{
+						if(!obj_reply_val.match(/^\d+$/))
+						{
+							obj_reply.addClass("input_alarm");
+							input_errors++;
+						}
+						else
+						{
+							obj_reply.removeClass("input_alarm");
+						}
+
+					}
+					else if(chkTyp=='let')
+					{
+						//alert(chkTyp);
+						if(obj_reply_val.match(".*\\d.*"))
+						{
+							obj_reply.addClass("input_alarm");
+							input_errors++;
+						}
+						else
+						{
+							obj_reply.removeClass("input_alarm");
+						}
+
+					}
+					else if(chkTyp=='natid')
+					{
+
+						var natid_errors=0;
+						var meli_code=obj_reply_val;
+						if (meli_code.length == 10)
+						{
+							if (meli_code == '1111111111' ||
+								meli_code == '0000000000' ||
+								meli_code == '2222222222' ||
+								meli_code == '3333333333' ||
+								meli_code == '4444444444' ||
+								meli_code == '5555555555' ||
+								meli_code == '6666666666' ||
+								meli_code == '7777777777' ||
+								meli_code == '8888888888' ||
+								meli_code == '9999999999') {
+								natid_errors++;
+							}
+							c = parseInt(meli_code.charAt(9));
+							n = parseInt(meli_code.charAt(0)) * 10 +
+								parseInt(meli_code.charAt(1)) * 9 +
+								parseInt(meli_code.charAt(2)) * 8 +
+								parseInt(meli_code.charAt(3)) * 7 +
+								parseInt(meli_code.charAt(4)) * 6 +
+								parseInt(meli_code.charAt(5)) * 5 +
+								parseInt(meli_code.charAt(6)) * 4 +
+								parseInt(meli_code.charAt(7)) * 3 +
+								parseInt(meli_code.charAt(8)) * 2;
+							r = n - parseInt(n / 11) * 11;
+							if ((r == 0 && r == c) || (r == 1 && c == 1) || (r > 1 && c == 11 - r))
+							{
+								//return true;
+							}
+							else
+							{
+								natid_errors++;
+							}
+						}
+						else
+						{
+							natid_errors++;
+						}
+
+						if(natid_errors>0)
+						{
+							obj_reply.addClass("input_alarm");
+							input_errors++;
+						}
+						else
+						{
+							obj_reply.removeClass("input_alarm");
+						}
+
+					}
+					else if(chkTyp=='cdtel')
+					{
+						var filter = /^((\+[1-9]{1,4}[ \-]*)|(\([0-9]{2,3}\)[ \-]*)|([0-9]{2,4})[ \-]*)*?[0-9]{3,4}?[ \-]*[0-9]{3,4}?$/;
+						if ( ((obj_reply_val).length<5) || (!filter.test(obj_reply_val))  )
+						{
+							obj_reply.addClass("input_alarm");
+							input_errors++;
+						}
+						else
+						{
+							obj_reply.removeClass("input_alarm");
+						}
+					}
+					else if(chkTyp=='mobile')
+					{
+						var filter = /^((\+[1-9]{1,4}[ \-]*)|(\([0-9]{2,3}\)[ \-]*)|([0-9]{2,4})[ \-]*)*?[0-9]{3,4}?[ \-]*[0-9]{3,4}?$/;
+						if ( ((obj_reply_val).length<10) || (!filter.test(obj_reply_val))  )
+						{
+							obj_reply.addClass("input_alarm");
+							input_errors++;
+						}
+						else
+						{
+							obj_reply.removeClass("input_alarm");
+						}
+					}
+
+				}
+			}
+
+
+		}
+
+	});
+
+
+	all_errors += input_errors;
+
+	var rev_uncompel_status = $('#rev_uncompel').is(':checked');
+
+	if(rev_uncompel_status==1)
+	{
+		all_errors=0;
+	}
+
+
+
+
+
+	//alert(all_errors);
+	if(all_errors>0)
+	{
+		swal({
+			title: "",
+			text: "لطفا موارد الزامی را با مقادیر مناسب پر کنید",
+			type: "error",
+			confirmButtonText: "Ok"
+		}, function(){
+			$('html, body').animate({
+					scrollTop: $("#form_start").offset().top
+				}, 500);
+			window.scrollTo(0, 100);
+		});
+
+		return false;
+	}
+	else
+	{
+		 if(just_check==0)
+		 {
+			 swal({
+			  title: "تایید ارسال فرم",
+			  text: "آیا می خواهید فرم را تایید و ارسال کنید؟",
+			  type: "warning",
+			  showCancelButton: true,
+			  confirmButtonColor: "#DD6B55",
+			  confirmButtonText: "بله، فرم ارسال شود",
+			  cancelButtonText: "خیر، برگشت به فرم",
+			  closeOnConfirm: true,
+			  closeOnCancel: true
+			 },
+			 function(isConfirm){
+
+					if (isConfirm)
+					{
+						$('#myDynFrm').submit();
+
+					} else
+					{
+					   return false;
+					}
+			 });
+		 }
+		 else
+		 {
+		 	PopupCenter($('#pay_linker').attr("data-href"),'random','900','800','yes');
+			//return false;"
+		 }
+
+	}
+
+}
+
+
+
+</script>
+
+
+
+
+
+
+<footer>
+	<div class="top">
+	<div class="cell">
+		<div class="items">
+			<h5> پیوندها </h5>
+			<a href="/find.php?item=1.22095.41524.fa"> دانشگاه ها </a>
+			<a href="./find.php?item=1.22096.41525.fa"> وزارتخانه ها </a>
+			<a href="./find.php?item=1.22097.41526.fa"> سفارتخانه ها </a>
+			<a href="./find.php?item=1.22098.41527.fa"> سايت های ديگر </a>
+			<a href="./page.php?slct_pg_id=7438&amp;sid=88&amp;slc_lang=fa" target="_blank"> فرصت های شغلی </a>
+			<a href="http://international.bmn.ir/" target="_blank"> بنیاد ملی نخبگان </a>
+		</div>
+	</div>
+	<div class="cell">
+		<div class="items">
+			<h5> دسترسی سریع </h5>
+			<a href=""> ارتباط مستقیم با مسئولین </a>
+			<a href="./index.php?slc_lang=fa&amp;sid=59"> پردیس بین الملل </a>
+			<a href="./sitemap.php?slc_lang=fa&amp;sid=31"> نقشه سایت </a>
+			<a href=""> ارتباط با ما </a>
+			<a href="./index.php?slc_lang=fa&amp;sid=68"> مدیریت همکاری های علمی بین المللی </a>
+		</div>
+	</div>
+	<div class="cell">
+		<a href="https://ict.khu.ac.ir/mis_dyn_frms.php?slc_lang=fa&amp;sid=31&amp;slct_f_id=17&amp;proced_id=13#" class="map">
+			<img src="./templates/tmpl_modern01/images/ic_map_center.png" alt="map">
+		</a>
+		<div class="social">
+			<a href="https://www.researchgate.net/institution/Kharazmi_University" class="researchgate"></a>
+			<a href="https://t.me/kharazmi100" class="telegram"></a>
+			<a href="https://twitter.com/search?q=Kharazmi%20University&amp;src=tyah" class="twitter"></a>
+			<a href="https://www.linkedin.com/in/kharazmi-university/" class="linkedin"></a>
+			<a href="" class="instagram"></a>
+			<a href="" class="aparat"></a>
+			<a href="" class="rss"></a>
+		</div>
+	</div>
+</div>
+<div class="bottom">
+	<div class="copyright">کلیه حقوق این وب سایت متعلق به دانشگاه خوارزمی می باشد -
+		<span>طراحی و برنامه نویسی : <a href="http://www.yektaweb.com">یکتاوب افزار شرق</a>
+	</span>
+</div>
+</div></footer>
+
+
+
+
+</div></body>

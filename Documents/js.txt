@@ -1,0 +1,113 @@
+<script type="text/javascript">
+
+function stopRKey(evt) {
+  var evt = (evt) ? evt : ((event) ? event : null);
+  var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+  if (evt.keyCode == 13)
+  {
+	  if((node.type=="text")||(!node.type))  
+	  {
+		  return false;
+	  }
+	  if(node.type=="textarea")  
+	  {
+		  return true;
+	  }
+  }
+}
+
+document.onkeypress = stopRKey;
+
+</script> 
+<base href="https://ict.khu.ac.ir/mis_dyn_frms.php"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="مرکز,فناوری,اطلاعات,و,ارتباطات,ict ">
+<meta name="description" content="مرکز فناوری اطلاعات و ارتباطات ict ">
+<meta name="GENERATOR" content="Yektaweb 4016">
+<meta name="distribution" content="GLOBAL">
+<link rel="alternate" type="application/rss+xml" title="دانشگاه خوارزمی -  News" href="https://khu.ac.ir/rss.php?sid=31&amp;slc_lang=31">
+			
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+<link rel="icon" href="./favicon.ico">
+			
+<meta http-equiv="content-language" content="fa">
+
+<script type="text/javascript" src="./files/0allsites/jqu.min.js"></script>
+<script type="text/javascript" src="./files/0allsites/jquery.marquee.min.js"></script>
+					
+<link href="./files/0allsites/shared.css?version=4016" rel="stylesheet" type="text/css">
+<link href="./files/0allsites/global_attach.css?version=4016" rel="stylesheet" type="text/css">
+<link href="./templates/tmpl_modern01/000_tmpl_modern01.css?version=4016" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./files/0allsites/jqu.num2fa.min.js"></script>
+ <script type="text/javascript">
+ $(document).ready(function(){ $('.persian').num2FaAr();});
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">	
+<script type="text/javascript" src="./templates/tmpl_modern01/js/js_global.js?version=4016"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="./templates/tmpl_modern01/js/js_local.js?version=4016"></script>
+<!--[if gte IE 9]>
+<style type="text/css">
+.gradient {filter: none;}
+figure.effect-apollo:hover img{opacity: 0.19;}
+figure.effect-apollo img {opacity: 1;}
+figure.effect-apollo figcaption::before {background: none;}
+</style>
+<![endif]-->
+
+
+<script type="text/javascript" src="./files/0allsites/scripts_full.js?version=4016?&amp;sid=31&amp;slc_lang=fa"></script>
+<script type="text/javascript" src="./files/0allsites/jqu.bxslider.min.js"></script>
+<link type="text/css" rel="stylesheet" href="./files/0allsites/global_attach_modern.css" media="screen">
+<link type="text/css" rel="stylesheet" href="./templates/tmpl_modern01/css/reset.css?version=4016" media="screen">
+<link type="text/css" rel="stylesheet" href="./templates/tmpl_modern01/css/style_global.css?version=4016" media="screen">
+<link type="text/css" rel="stylesheet" href="./templates/tmpl_modern01/css/style_local.css?version=4016" media="screen">
+<link type="text/css" rel="stylesheet" href="./templates/tmpl_modern01/css/style_fa.css?version=4016" media="screen">
+<link href="./files/0allsites/scripts.css?version=4016" type="text/css" rel="stylesheet">
+<link href="./files/0allsites/jqu.bxslider.css" type="text/css" rel="stylesheet">
+<title>Forms - دانشگاه خوارزمی -  مرکز فناوری اطلاعات و ارتباطات</title>
+<script type="text/javascript" src="jvsc_servs/jscripts_nn.js.php?pg_numb=45&amp;awtvrsn=4016"></script>
+			
+<script type="text/javascript" src="jvsc_servs/jscripts_chat_false.js?awtvrsn=4016">
+</script>			
+            
+                       
+            <script type="text/javascript">
+            function init_mine() 
+            {
+				display_submenu(); 
+				
+				if (arguments.callee.done) 
+				{
+				   return;
+				}
+				else
+				{
+				   arguments.callee.done = true;
+				}
+			}
+			
+            if (document.addEventListener) 
+            {
+               document.addEventListener("DOMContentLoaded", init_mine, false);
+            }
+            
+            window.onload = init_mine;
+
+			$(document).ready(function() {
+				var pathname = window.location.href.split('#')[0];
+				$('a[href^="#"]').each(function() {
+					var $this = $(this),
+						link = $this.attr('href');
+					$this.attr('href', pathname + link);
+				});
+			});
+			document.addEventListener("click", function(event) {
+			  var element = event.target;
+			  if (element.tagName.toLowerCase() == "a" && 
+				element.getAttribute("href").indexOf("#") === 0) {
+				my_href = location.href + element.getAttribute("href");
+				my_href = my_href.replace(/#+/g, '#');
+				element.href = my_href;
+			  }
+			});
+            </script>
