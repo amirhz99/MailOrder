@@ -1,0 +1,38 @@
+<!-- {% extends "articles/master.html" %}
+
+
+{% block content %}
+    <h2>Send Article :</h2>
+    <form action="{% url 'articles:article.send' %}" method="POST">
+        {% csrf_token %}
+        <div class="form-group">
+            {{ form.title.label_tag }}
+            {{ form.title }}
+            <div class="invalid-feedback">
+                {{ form.title.errors | first }}
+            </div>
+        </div>
+        <div class="form-group">
+            {{ form.categories.label_tag }}
+            {{ form.categories }}
+            <div class="invalid-feedback">
+                {{ form.categories.errors | first }}
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="body">body : </label>
+            <textarea name="body" id="body" cols="30" rows="10" class="form-control {% if form.body.errors %}is-invalid{% endif %}"></textarea>
+            <div class="invalid-feedback">
+                {{ form.body.errors | first }}
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="published_at">published at : </label>
+            <input type="date" name="published_at" class="form-control {% if form.published_at.errors %}is-invalid{% endif %}" id="published_at">
+            <div class="invalid-feedback">
+                {{ form.published_at.errors | first }}
+            </div>
+        </div>
+        <button type="submit" class="btn btn-danger">Send</button>
+    </form>
+{% endblock %} -->

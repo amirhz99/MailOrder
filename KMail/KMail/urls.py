@@ -17,8 +17,11 @@ from django.contrib import admin
 from django.urls import path, include
 from emails import views as emails_views
 
+
+
 urlpatterns = [
     path('email/', include('emails.urls')),
     #path('email', emails_views.index),
-    path('admin/', admin.site.urls), 
+    path('admin/', admin.site.urls),
 ]
+
