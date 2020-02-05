@@ -1,34 +1,42 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from django.http import HttpResponse
+from django.template import loader
 
 from .models import StudentMail
 
-from django.template import loader
+from .form import SendStudentMailForm
 
 def index(request):
     StudentMails = StudentMail.objects.order_by('Student_Id')
-    template = loader.get_template("index.html")
-    return HttpResponse(template.render({
+    return render(request , 'index.html' ,{
         'title' : 'All StudentMails',
-        'StudentMails' : StudentMail ,
-    }, request))
+        'StudentMails' : StudentMails ,
+    })
 
-# def send(request):
-#     if request.method == 'POST':
-#         # Validation data
-#         form = SendArticleForm(request.POST)
+def students(request):
 
-#         if form.is_valid() :
-#             Article.objects.create(
-#                 title = form.cleaned_data['title'],
-#                 body = form.cleaned_data['body'],
-#                 published_at = form.cleaned_data['published_at']
-#             )
+    if request.method =='POST':
 
-#             return redirect('emails:emails')
+        form = SendStudentMailForm(request.POST)
 
-#     else :
-#        form = SendArticleForm()
+        if form.is_valid() :
+            
+            StudentMail.objects.create(
+                First_Name = form.cleaned_data['First_Name'],
+                Last_Name = form.cleaned_data['Last_Name'],
+                Student_Id = form.cleaned_data['Student_Id'],
+                National_Id = form.cleaned_data['National_Id'],
+                Phone_Number = form.cleaned_data['Phone_Number'],
+                College = form.cleaned_data['College'],
+                Section = form.cleaned_data['Section'],
+                Request_Mail = form.cleaned_data['Request_Mail'],
+                Backup_Mail = form.cleaned_data['Backup_Mail'],
+            )
+
+            return redirect('emails:emails')
+
+    else :
+        form = SendStudentMailForm()
 
 
-    return render(request , 'emails/students.html' , { 'form' : form })
+    return render(request , 'students.html' , { 'form' : form })

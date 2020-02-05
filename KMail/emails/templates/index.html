@@ -1,1 +1,14 @@
-<!DOCTYPE html>
+{% extends 'master.html' %}
+
+{% block content %}
+    <h2>{{ title }} :</h2>
+    {% if StudentMails %}
+        <ul>
+            {% for mail in StudentMails %}
+                <li>{{StudentMails.Last_Name}}{{StudentMails.Request_Mail}}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No Mails are available</p>
+    {% endif %}
+{% endblock content %}
