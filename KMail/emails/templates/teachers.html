@@ -2,9 +2,9 @@
 
 
 {% block content %}
-    <h2>در خواست ایمیل دانشجویی: </h2>
+    <h2>در خواست ایمیل اساتید: </h2>
 
-    <form action="{% url 'emails:email.students' %}" method ="POST">
+    <form action="{% url 'emails:email.teachers' %}" method ="POST">
         {% csrf_token %}
         <div class="form-group">
             <label for="First_Name"> نام : </label>
@@ -21,17 +21,17 @@
             </div>
         </div>
         <div class="form-group">
-            <label for="Student_Id">شماره دانشجویی : </label>
-            <input type="text" name="Student_Id" class="form-control {% if form.Student_Id.errors %}is-invalid{% endif %}" id="Student_Id">
-            <div class="invalid-feedback">
-                {{ form.Student_Id.errors | first }}
-            </div>
-        </div>
-        <div class="form-group">
             <label for="National_Id">کد ملی : </label>
             <input type="text" name="National_Id" class="form-control {% if form.National_Id.errors %}is-invalid{% endif %}" id="National_Id">
             <div class="invalid-feedback">
                 {{ form.National_Id.errors | first }}
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="Identity_Id">شماره شناسنامه : </label>
+            <input type="text" name="Identity_Id" class="form-control {% if form.Identity_Id.errors %}is-invalid{% endif %}" id="National_Id">
+            <div class="invalid-feedback">
+                {{ form.Identity_Id.errors | first }}
             </div>
         </div>
         <div class="form-group">
@@ -53,11 +53,10 @@
               </select>
         </div>
         <div class="form-group">
-            <label for="Section">مقطع تحصیلی : </label>
-            <select name="Section" id="Section" class="form-control" >
-                <option value="کارشناسی" selected>کارشناسی</option>
-                <option value="کارشناسی ارشد">کارشناسی ارشد</option>
-                <option value="دکترا">دکترا</option>
+            <label for="Service">نوع استخدام : </label>
+            <select name="Service" id="Service" class="form-control" >
+                <option value="هیئت علمی" selected>هیِئت علمی</option>
+                <option value="مدعو">مدعو</option>
               </select>
         </div>
         <div class="form-group">

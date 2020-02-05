@@ -5,14 +5,13 @@ from django.core.exceptions import ValidationError
 class SendStudentMailForm(forms.Form):
     First_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام الزامی است'})
     Last_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام خانوادگی الزامی است'})
-    Student_Id = forms.IntegerField( error_messages = { 'required' : 'وارد کردن شماره دانشجویی الزامی است'})
-    National_Id = forms.IntegerField( error_messages = { 'required' : 'وارد کردن کد ملی الزامی است'})
+    Student_Id = forms.IntegerField(error_messages = { 'required' : 'وارد کردن شماره دانشجویی الزامی است'})
+    National_Id = forms.IntegerField(error_messages = { 'required' : 'وارد کردن کد ملی الزامی است'})
     Phone_Number = forms.IntegerField( error_messages = { 'required' : 'وارد کردن شماره همراه الزامی است'})
     College = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن دانشکده الزامی است'})
     Section = forms.CharField(max_length = 50 , error_messages = { 'required' : 'وارد کردن مقطع تحصیلی الزامی است'})
     Request_Mail = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام کاربری ایمیل در خواستی الزامی است'})
     Backup_Mail = forms.EmailField(max_length=254 , error_messages = { 'required' : 'وارد کردن ایمیل بازیابی الزامی است'})
-
 
     # title.widget.attrs['class'] = 'form-control'
 
@@ -24,3 +23,25 @@ class SendStudentMailForm(forms.Form):
     #         raise ValidationError('کد ملی باید ده رقم باشد')
 
     #     return NationalId
+class SendTeacherMailForm(forms.Form):
+    First_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام الزامی است'})
+    Last_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام خانوادگی الزامی است'})
+    National_Id = forms.IntegerField(error_messages = { 'required' : 'وارد کردن کد ملی الزامی است'})
+    Identity_Id = forms.IntegerField(error_messages = { 'required' : 'وارد کردن شماره شناسنامه الزامی است'})
+    Phone_Number = forms.IntegerField( error_messages = { 'required' : 'وارد کردن شماره همراه الزامی است'})
+    College = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن دانشکده الزامی است'})
+    Service = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نوع استخدام الزامی است'})
+    Request_Mail = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام کاربری ایمیل در خواستی الزامی است'})
+    Backup_Mail = forms.EmailField(max_length=254 , error_messages = { 'required' : 'وارد کردن ایمیل بازیابی الزامی است'})
+
+class SendEmployeeMailForm(forms.Form):
+    First_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام الزامی است'})
+    Last_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام خانوادگی الزامی است'})
+    National_Id = forms.IntegerField(error_messages = { 'required' : 'وارد کردن کد ملی الزامی است'})
+    Identity_Id = forms.IntegerField(error_messages = { 'required' : 'وارد کردن شماره شناسنامه الزامی است'})
+    Phone_Number = forms.IntegerField( error_messages = { 'required' : 'وارد کردن شماره همراه الزامی است'})
+    Service = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نوع استخدام الزامی است'})
+    WorkPlace = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن محل خدمت الزامی است'})
+    Assistance = forms.CharField(max_length=50 ,  error_messages = { 'required' : 'وارد کردن معاونت مربوطه الزامی است'})
+    Request_Mail = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام کاربری ایمیل در خواستی الزامی است'})
+    Backup_Mail = forms.EmailField(max_length=254 , error_messages = { 'required' : 'وارد کردن ایمیل بازیابی الزامی است'})
