@@ -45,14 +45,13 @@ def teachers(request):
 
     if request.method =='POST':
 
-        form = SendStudentMailForm(request.POST)
+        form = SendTeacherMailForm(request.POST)
 
         if form.is_valid() :
 
-            StudentMail.objects.create(
+            TeacherMail.objects.create(
                 First_Name = form.cleaned_data['First_Name'],
                 Last_Name = form.cleaned_data['Last_Name'],
-                Student_Id = form.cleaned_data['Student_Id'],
                 National_Id = form.cleaned_data['National_Id'],
                 Identity_Id = form.cleaned_data['Identity_Id'],
                 Phone_Number = form.cleaned_data['Phone_Number'],
@@ -65,20 +64,20 @@ def teachers(request):
             return redirect('emails:emails')
 
     else :
-        form = SendStudentMailForm()
+        form = SendTeacherMailForm()
 
 
-    return render(request , 'students.html' , { 'form' : form })
+    return render(request , 'teachers.html' , { 'form' : form })
 
 def employees(request):
 
     if request.method =='POST':
 
-        form = SendemployeeMailForm(request.POST)
+        form = SendEmployeeMailForm(request.POST)
 
         if form.is_valid() :
 
-            StudentMail.objects.create(
+            EmployeeMail.objects.create(
                 First_Name = form.cleaned_data['First_Name'],
                 Last_Name = form.cleaned_data['Last_Name'],
                 National_Id = form.cleaned_data['National_Id'],
@@ -95,7 +94,7 @@ def employees(request):
             return redirect('emails:emails')
 
     else :
-        form = SendStudentMailForm()
+        form = SendEmployeeMailForm()
 
 
-    return render(request , 'students.html' , { 'form' : form })
+    return render(request , 'employees.html' , { 'form' : form })
