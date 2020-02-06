@@ -2,47 +2,47 @@
 
 
 {% block content %}
-    <h2>در خواست ایمیل کارمندان: </h2>
+    <h2>:در خواست ایمیل کارمندان</h2>
 
     <form action="{% url 'emails:email.employees' %}" method ="POST">
         {% csrf_token %}
         <div class="form-group">
-            <label for="First_Name"> نام : </label>
+            <label for="First_Name">:نام </label>
             <input type="text" name="First_Name" class="form-control {% if form.First_Name.errors %}is-invalid{% endif %}" id="First_Name" >
             <div class="invalid-feedback">
                 {{ form.First_Name.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="Last_Name">نام خانوادگی : </label>
+            <label for="Last_Name">:نام خانوادگی </label>
             <input type="text" name="Last_Name" id="Last_Name" class="form-control {% if form.Last_Name.errors %}is-invalid{% endif %}">
             <div class="invalid-feedback">
                 {{ form.Last_Name.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="National_Id">کد ملی : </label>
+            <label for="National_Id">:کد ملی </label>
             <input type="text" name="National_Id" class="form-control {% if form.National_Id.errors %}is-invalid{% endif %}" id="National_Id">
             <div class="invalid-feedback">
                 {{ form.National_Id.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="Identity_Id">شماره شناسنامه : </label>
+            <label for="Identity_Id">:شماره شناسنامه </label>
             <input type="text" name="Identity_Id" class="form-control {% if form.Identity_Id.errors %}is-invalid{% endif %}" id="National_Id">
             <div class="invalid-feedback">
                 {{ form.Identity_Id.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="Phone_Number">شماره همراه : </label>
+            <label for="Phone_Number">:شماره همراه </label>
             <input type="text" name="Phone_Number" class="form-control {% if form.Phone_Number.errors %}is-invalid{% endif %}" id="Phone_Number">
             <div class="invalid-feedback">
                 {{ form.Phone_Number.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="College">دانشکده : </label>
+            <label for="College">:دانشکده</label>
             <select name="College" id="College" class="form-control" >
                 <option value="فنی و مهندسی" selected>فنی و مهندسی</option>
                 <option value="علوم کامپیوتر و ریاضی">علوم کامپیوتر و ریاضی</option>
@@ -53,35 +53,35 @@
               </select>
         </div>
         <div class="form-group">
-            <label for="Service">نوع استخدام : </label>
+            <label for="Service">:نوع استخدام </label>
             <select name="Service" id="Service" class="form-control" >
                 <option value="هیئت علمی selected>هیِئت علمی</option>
                 <option value="مدعو">مدعو</option>
               </select>
         </div>
         <div class="form-group">
-            <label for="WorkPlace">محل خدمت : </label>
+            <label for="WorkPlace">:محل خدمت </label>
             <input type="text" name="WorkPlace" class="form-control {% if form.WorkPlace.errors %}is-invalid{% endif %}" id="College">
             <div class="invalid-feedback">
                 {{ form.WorkPlace.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="Assistance">ذیل کدام معاونت فعالیت می کنید : </label>
+            <label for="Assistance">:ذیل کدام معاونت فعالیت می کنید</label>
             <input type="text" name="Assistance" class="form-control {% if form.Assistance.errors %}is-invalid{% endif %}" id="College">
             <div class="invalid-feedback">
                 {{ form.Assistance.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="Request_Mail">نام ایمیل در خواستی : </label>
+            <label for="Request_Mail">:نام ایمیل در خواستی </label>
             <input type="text" name="Request_Mail" class="form-control {% if form.Request_Mail.errors %}is-invalid{% endif %}" id="Request_Mail">
             <div class="invalid-feedback">
                 {{ form.Request_Mail.errors | first }}
             </div>
         </div>
         <div class="form-group">
-            <label for="Backup_Mail">ایمیل بازیابی(جهت ارسال نام کاربری و پسورد پس ساخت ایمیل) : </label>
+            <label for="Backup_Mail">:ایمیل بازیابی(جهت ارسال نام کاربری و پسورد پس ساخت ایمیل)</label>
             <input type="email" name="Backup_Mail" class="form-control {% if form.Backup_Mail.errors %}is-invalid{% endif %}" id="Backup_Mail">
             <div class="invalid-feedback">
                 {{ form.Backup_Mail.errors | first }}

@@ -48,7 +48,7 @@ class TeacherMail(models.Model):
 class EmployeeMail(models.Model):
 
     First_Name = models.CharField(max_length=50 , verbose_name = "نام")
-    Last_Name = models.CharField(max_length=50)
+    Last_Name = models.CharField(max_length=50 , verbose_name = " نام خانوادگی")
     National_Id = models.IntegerField(verbose_name = "کد ملی")
     Identity_Id = models.IntegerField(verbose_name = "شماره شناسنامه" )
     Phone_Number = models.IntegerField(verbose_name = "شماره همراه")
