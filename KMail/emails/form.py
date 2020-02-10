@@ -1,27 +1,11 @@
 
 from django import forms
 from django.core.exceptions import ValidationError
-#import unicodecsv as csv
-#import active_directory
+from pyad import *
+import pythoncom
 
-# import python-ldap
+pyad.set_defaults(ldap_server="127.0.0.1", username="Administrator", password="12357895123Abc")
 
-# l = ldap.open("192.168.159.133")
-
-	# you should  set this to ldap.VERSION2 if you're using a v2 directory
-# l.protocol_version = ldap.VERSION3
-	# Pass in a valid username and password to get
-	# privileged directory access.
-	# If you leave them as empty strings or pass an invalid value
-	# you will still bind to the server but with limited privileges.
-
-# username = "cn=Administrator, o=com.ghdam.root"
-# password  = "12357895123Abc"
-
-	# Any errors will throw an ldap.LDAPError exception
-	# or related exception so you can ignore the result
-# l.simple_bind(username, password)
-	# handle error however you like
 class SendStudentMailForm(forms.Form):
     First_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام الزامی است'})
     Last_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام خانوادگی الزامی است'})
@@ -34,33 +18,29 @@ class SendStudentMailForm(forms.Form):
     Backup_Mail = forms.EmailField(max_length=254 , error_messages = { 'required' : 'وارد کردن ایمیل بازیابی الزامی است'})
 
 
-    # homeMDB = "CN=UBER MAILBOX,CN=InformationStore,CN=UBERMAILSERVER,"\
-    #         "CN=Servers,CN=Administrative Groups,CN=UBERORG,"\
-    #         "CN=Microsoft Exchange,CN=Services,CN=Configuration,"\
-    #         "DC=uber,DC=org,DC=uk"
-
-    # user=active_directory.find_user("captain.awesomeface")
-    # user.CreateMailbox(homeMDB)
-
-
-    # user.Properties["mail"].Value = "captain.awesomeface@uberorg.com";
-
-    # user.SetInfo()
-
-    # with open('chargoon.csv','rb') as csvfile:
-    #         reader = csv.reader(csvfile)
-    #             for row in reader:
-
     def clean_Request_Mail(self):
+
+
+        pythoncom.CoInitialize()
+
+        StudentId = self.cleaned_data['Student_Id']
+
+        group = adgroup.ADGroup.from_cn("Students")
+        t=0
+        for user1 in group.get_members():
+
+            if str(StudentId) in user1.get_attribute("cn"):
+                t=1
+        if t==0 :
+            raise ValidationError('دانشجویی با این شماره دانشجویی پیدا نشد')
 
         RequestMail = self.cleaned_data['Request_Mail']
 
-        if RequestMail == 'zarei.100' :
-            raise ValidationError('این نام کاربری تکراری می باشد')
+        for user1 in group.get_members():
+            if RequestMail in user1.get_attribute("mail"):
+                raise ValidationError('این ایمیل تکراری می باشد')
 
         return RequestMail
-
-
 
 class SendTeacherMailForm(forms.Form):
     First_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام الزامی است'})
@@ -73,6 +53,30 @@ class SendTeacherMailForm(forms.Form):
     Request_Mail = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام کاربری ایمیل در خواستی الزامی است'})
     Backup_Mail = forms.EmailField(max_length=254 , error_messages = { 'required' : 'وارد کردن ایمیل بازیابی الزامی است'})
 
+    def clean_Request_Mail(self):
+
+        pythoncom.CoInitialize()
+
+        IdentityId = self.cleaned_data['Identity_Id']
+
+        group = adgroup.ADGroup.from_cn("Teachers")
+        t=0
+        for user1 in group.get_members():
+            if str(IdentityId) in user1.get_attribute("cn"):
+                t=1
+        if t==0 :
+            raise ValidationError('استادی با این مشخصات پیدا نشد')
+
+        RequestMail = self.cleaned_data['Request_Mail']
+
+        for user1 in group.get_members():
+            if RequestMail in user1.get_attribute("mail"):
+                raise ValidationError('این ایمیل تکراری می باشد')
+
+        return RequestMail
+
+
+
 class SendEmployeeMailForm(forms.Form):
     First_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام الزامی است'})
     Last_Name = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام خانوادگی الزامی است'})
@@ -84,3 +88,25 @@ class SendEmployeeMailForm(forms.Form):
     Assistance = forms.CharField(max_length=50 ,  error_messages = { 'required' : 'وارد کردن معاونت مربوطه الزامی است'})
     Request_Mail = forms.CharField(max_length=50 , error_messages = { 'required' : 'وارد کردن نام کاربری ایمیل در خواستی الزامی است'})
     Backup_Mail = forms.EmailField(max_length=254 , error_messages = { 'required' : 'وارد کردن ایمیل بازیابی الزامی است'})
+
+    def clean_Request_Mail(self):
+
+        pythoncom.CoInitialize()
+
+        IdentityId = self.cleaned_data['Identity_Id']
+
+        group = adgroup.ADGroup.from_cn("ٍEmployees")
+        t=0
+        for user1 in group.get_members():
+            if str(IdentityId) in user1.get_attribute("cn"):
+                t=1
+        if t==0 :
+            raise ValidationError('کارمندی با این مشخصات پیدا نشد')
+        RequestMail = self.cleaned_data['Request_Mail']
+
+        for user1 in group.get_members():
+            if RequestMail in user1.get_attribute("mail"):
+                raise ValidationError('این ایمیل تکراری می باشد')
+
+        return RequestMail
+

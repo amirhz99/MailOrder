@@ -1,10 +1,25 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from django.template import loader
-
 from .models import StudentMail,TeacherMail,EmployeeMail
 
 from .form import SendStudentMailForm,SendTeacherMailForm,SendEmployeeMailForm
+
+from pyad import *
+import pythoncom
+
+from django.core.mail import EmailMessage
+from django.conf import settings
+
+pyad.set_defaults(ldap_server="127.0.0.1", username="Administrator", password="12357895123Abc")
+def updatemail(user ,mail,sn,givenname):
+    user = aduser.ADUser.from_cn(user)
+    user.update_attribute("mail",mail)
+    user.update_attribute("sn", sn)
+    user.update_attribute("givenname", givenname)
+
+
+
 
 def index(request):
     StudentMails = StudentMail.objects.order_by('Student_Id')
@@ -33,12 +48,24 @@ def students(request):
                 Backup_Mail = form.cleaned_data['Backup_Mail'],
             )
 
+
+            #ثبت ایمیل
+            pythoncom.CoInitialize()
+            updatemail(form.cleaned_data['Student_Id'],form.cleaned_data['Request_Mail'],form.cleaned_data['Last_Name'],form.cleaned_data['First_Name'])
+
+            subject = 'Thank you for registering to Mail Order'
+            message = form.cleaned_data['Request_Mail'] +'has been successfully created.'
+            email_from = settings.EMAIL_HOST_USER
+            recipient_list = [form.cleaned_data['Backup_Mail']]
+            email = EmailMessage( subject, message,to= recipient_list )
+            print( subject, message,email_from, recipient_list )
+            email.send()
             return redirect('emails:emails')
 
     else :
         form = SendStudentMailForm()
 
-
+    
     return render(request , 'students.html' , { 'form' : form })
 
 def teachers(request):
@@ -60,6 +87,10 @@ def teachers(request):
                 Request_Mail = form.cleaned_data['Request_Mail'],
                 Backup_Mail = form.cleaned_data['Backup_Mail'],
             )
+
+            #ثبت ایمیل
+            pythoncom.CoInitialize()
+            updatemail(form.cleaned_data['National_Id'],form.cleaned_data['Request_Mail'],form.cleaned_data['Last_Name'],form.cleaned_data['First_Name'])
 
             return redirect('emails:emails')
 
@@ -90,6 +121,10 @@ def employees(request):
                 Request_Mail = form.cleaned_data['Request_Mail'],
                 Backup_Mail = form.cleaned_data['Backup_Mail'],
             )
+
+            #ثبت ایمیل
+            pythoncom.CoInitialize()
+            updatemail(form.cleaned_data['National_Id'],form.cleaned_data['Request_Mail'],form.cleaned_data['Last_Name'],form.cleaned_data['First_Name'])
 
             return redirect('emails:emails')
 
